@@ -1,6 +1,702 @@
 [
-  {"company": "Palantir", "role": "Forward Deployed Engineer", "location": "Multiple (US/EU)", "type": "Full-time", "posted": "2026-06-24", "url": "https://landed.b100x.ai", "skills": ["Python", "Customer-facing", "Data"]},
-  {"company": "OpenAI", "role": "Forward Deployed Engineer", "location": "San Francisco", "type": "Full-time", "posted": "2026-06-23", "url": "https://landed.b100x.ai", "skills": ["LLMs", "Integrations", "Solutions"]},
-  {"company": "Decagon", "role": "Forward Deployed Engineer", "location": "Remote (US)", "type": "Full-time", "posted": "2026-06-21", "url": "https://landed.b100x.ai", "skills": ["Agents", "APIs", "Customer success"]},
-  {"company": "Glean", "role": "Forward Deployed Engineer", "location": "Bangalore, India", "type": "Full-time", "posted": "2026-06-20", "url": "https://landed.b100x.ai", "skills": ["Python", "Enterprise", "RAG"]}
+  {
+    "company": "Cohere",
+    "role": "Forward Deployed Engineer, Infrastructure Specialist",
+    "location": "Tokyo, Remote",
+    "type": "Full-time",
+    "posted": "2026-06-22",
+    "url": "https://jobs.ashbyhq.com/cohere/38f75a48-199c-4325-a7f8-2af6ed6a1b3b/application",
+    "skills": [
+      "AI integration",
+      "engineering",
+      "data infrastructure"
+    ]
+  },
+  {
+    "company": "Machina Labs",
+    "role": "Forward Deployed Engineer",
+    "location": "Dayton, Ohio",
+    "type": "Full-time",
+    "posted": "2026-06-20",
+    "url": "https://jobs.lever.co/MachinaLabs/ae2060df-6450-4c3e-a3ff-ae7fa344e845/apply",
+    "skills": []
+  },
+  {
+    "company": "Defense Unicorns",
+    "role": "FDE Data Engineer- Space",
+    "location": "United States - Remote, Remote",
+    "type": "Full-time",
+    "posted": "2026-06-19",
+    "url": "https://job-boards.greenhouse.io/defenseunicorns/jobs/5169676007",
+    "skills": [
+      "Kubernetes",
+      "data engineering",
+      "data platforms",
+      "data streaming",
+      "AWS"
+    ]
+  },
+  {
+    "company": "Defense Unicorns",
+    "role": "Senior FDE Data Engineer",
+    "location": "United States - Remote, Remote",
+    "type": "Senior",
+    "posted": "2026-06-19",
+    "url": "https://job-boards.greenhouse.io/defenseunicorns/jobs/5169665007",
+    "skills": [
+      "data engineering",
+      "data platform",
+      "Kubernetes",
+      "integration",
+      "deployment",
+      "troubleshooting"
+    ]
+  },
+  {
+    "company": "Pallet",
+    "role": "Forward Deployed Product Engineer",
+    "location": "San Francisco or New York",
+    "type": "Full-time",
+    "posted": "2026-06-19",
+    "url": "https://job-boards.greenhouse.io/pallet/jobs/5169663007",
+    "skills": [
+      "AI Agents",
+      "logistics",
+      "data entry",
+      "load management",
+      "production systems",
+      "integrations"
+    ]
+  },
+  {
+    "company": "Adyen",
+    "role": "Senior Forward Deployed Engineer",
+    "location": "Amsterdam",
+    "type": "Senior",
+    "posted": "2026-06-19",
+    "url": "https://job-boards.greenhouse.io/adyen/jobs/8002425",
+    "skills": [
+      "AI",
+      "Automation"
+    ]
+  },
+  {
+    "company": "Datafold",
+    "role": "Forward Deployed Data Engineer - EU",
+    "location": "Europe, Remote",
+    "type": "Full-time",
+    "posted": "2026-06-19",
+    "url": "https://jobs.ashbyhq.com/datafold/5b68673e-e56b-429e-918c-4fa652f668ca/application",
+    "skills": [
+      "data engineering",
+      "AI",
+      "project management",
+      "customer relations"
+    ]
+  },
+  {
+    "company": "Datafold",
+    "role": "Forward Deployed Data Engineer",
+    "location": "USA, Remote",
+    "type": "Full-time",
+    "posted": "2026-06-19",
+    "url": "https://jobs.ashbyhq.com/datafold/21cad7b8-546a-40a1-9a37-cde266201821/application",
+    "skills": [
+      "data engineering",
+      "AI",
+      "project management",
+      "customer relations"
+    ]
+  },
+  {
+    "company": "Distyl",
+    "role": "Forward Deployed AI Engineer - Enterprise Lead",
+    "location": "San Francisco, Remote",
+    "type": "Senior",
+    "posted": "2026-06-18",
+    "url": "https://jobs.ashbyhq.com/Distyl/a5d2b03b-61e2-4a83-9e74-beea1e3e7e72/application",
+    "skills": []
+  },
+  {
+    "company": "Distyl",
+    "role": "Forward Deployed AI Engineer - Lead",
+    "location": "San Francisco, Remote",
+    "type": "Senior",
+    "posted": "2026-06-18",
+    "url": "https://jobs.ashbyhq.com/Distyl/553bd8ed-25f2-4bcf-817a-f17ddc816896/application",
+    "skills": [
+      "AI systems",
+      "production AI systems",
+      "architecture",
+      "technical execution"
+    ]
+  },
+  {
+    "company": "Distyl",
+    "role": "Forward Deployed AI Engineer",
+    "location": "San Francisco, Remote",
+    "type": "Full-time",
+    "posted": "2026-06-18",
+    "url": "https://jobs.ashbyhq.com/Distyl/46728319-c47a-48c8-bbfb-af0d9bff2ea2/application",
+    "skills": [
+      "AI systems",
+      "production AI systems",
+      "software",
+      "AI workflow"
+    ]
+  },
+  {
+    "company": "Outreach",
+    "role": "Forward Deployed Engineer \u2013 AI Revenue Agents",
+    "location": "United States, Remote",
+    "type": "Full-time",
+    "posted": "2026-06-18",
+    "url": "https://jobs.lever.co/outreach/c050b2d3-1c6b-4eea-86d1-ef505bd2b4cb/apply",
+    "skills": []
+  },
+  {
+    "company": "monday.com",
+    "role": "Forward Deployed Engineer - APJ",
+    "location": "Singapore, Remote",
+    "type": "Full-time",
+    "posted": "2026-06-18",
+    "url": "https://jobs.ashbyhq.com/monday.com/319e7457-fce5-49fe-9be2-0805443a85aa/application",
+    "skills": []
+  },
+  {
+    "company": "Handshake",
+    "role": "Senior Forward Deployed Engineer, Handshake AI",
+    "location": "San Francisco, CA",
+    "type": "Senior",
+    "posted": "2026-06-16",
+    "url": "https://jobs.ashbyhq.com/handshake/b8fde2f6-f30d-4e08-842d-eac799100394/application",
+    "skills": [
+      "technical leadership",
+      "deployment lifecycle",
+      "architecting solutions"
+    ]
+  },
+  {
+    "company": "CHAOS Industries",
+    "role": "Forward Deployed Engineer - Software",
+    "location": "El Segundo, United States",
+    "type": "Full-time",
+    "posted": "2026-06-16",
+    "url": "https://job-boards.greenhouse.io/chaosindustries/jobs/5166387007",
+    "skills": []
+  },
+  {
+    "company": "monday.com",
+    "role": "Forward Deployed Engineer, Strategic Deployments",
+    "location": "New York, Remote",
+    "type": "Full-time",
+    "posted": "2026-06-15",
+    "url": "https://jobs.ashbyhq.com/monday.com/068bbb1e-ea53-46a9-8faf-cb48765ba9c6/application",
+    "skills": []
+  },
+  {
+    "company": "AutogenAI",
+    "role": "Founding Forward Deployed Engineer, AI",
+    "location": "United States, Hybrid",
+    "type": "Full-time",
+    "posted": "2026-06-15",
+    "url": "https://job-boards.greenhouse.io/autogenai/jobs/5262090008",
+    "skills": [
+      "generative AI",
+      "natural language processing"
+    ]
+  },
+  {
+    "company": "Coder",
+    "role": "Senior Forward Deployed Engineer (North America)",
+    "location": "United States, Remote",
+    "type": "Senior",
+    "posted": "2026-06-12",
+    "url": "https://jobs.ashbyhq.com/Coder/afb0b507-24ba-4f39-ac51-739e23ce8938/application",
+    "skills": []
+  },
+  {
+    "company": "Lantern",
+    "role": "Sr. Salesforce Health Cloud Administrator / FDE",
+    "location": "Dallas, TX - Hybrid (3x in office/week)",
+    "type": "Senior",
+    "posted": "2026-06-11",
+    "url": "https://job-boards.greenhouse.io/employerdirecthealthcare/jobs/5159025007",
+    "skills": []
+  },
+  {
+    "company": "Braze",
+    "role": "Forward-Deployed Data Scientist",
+    "location": "Tokyo",
+    "type": "Full-time",
+    "posted": "2026-06-11",
+    "url": "https://boards.greenhouse.io/braze/jobs/8001117?gh_jid=8001117",
+    "skills": [
+      "ML pipeline",
+      "model training",
+      "data transformation"
+    ]
+  },
+  {
+    "company": "Cohere",
+    "role": "Engineering Manager, FDE Infrastructure (NORAM)",
+    "location": "Canada, Remote",
+    "type": "Full-time",
+    "posted": "2026-06-11",
+    "url": "https://jobs.ashbyhq.com/cohere/6a6120d5-5e02-4811-99d9-6baf0b910e37/application",
+    "skills": [
+      "cloud infrastructure",
+      "Kubernetes",
+      "OpenSearch",
+      "databases"
+    ]
+  },
+  {
+    "company": "Notion",
+    "role": "Forward Deployed Engineer, GTM - Japan",
+    "location": "Tokyo, Japan",
+    "type": "Full-time",
+    "posted": "2026-06-11",
+    "url": "https://jobs.ashbyhq.com/notion/4bc0802c-b5e0-411c-be01-daaea2bc3ae0/application",
+    "skills": []
+  },
+  {
+    "company": "Ava Labs",
+    "role": "Senior Forward Deployed Engineer",
+    "location": "Remote (Global), Remote",
+    "type": "Senior",
+    "posted": "2026-06-10",
+    "url": "https://jobs.ashbyhq.com/ava-labs/444892f3-0872-4476-9d52-20c7f1b1f8d4/application",
+    "skills": []
+  },
+  {
+    "company": "Nash",
+    "role": "Forward Deployed Engineer",
+    "location": "Australia, Remote",
+    "type": "Full-time",
+    "posted": "2026-06-09",
+    "url": "https://jobs.ashbyhq.com/Nash/0c442998-b7f9-4200-b1cc-0221dec9b087/application",
+    "skills": [
+      "APIs",
+      "backend systems",
+      "platform integrations"
+    ]
+  },
+  {
+    "company": "Cape",
+    "role": "Forward Deployed Engineer, Federal",
+    "location": "Arlington, VA, Remote",
+    "type": "Full-time",
+    "posted": "2026-06-09",
+    "url": "https://jobs.ashbyhq.com/cape/8ea483bd-4753-45e3-933f-075412844a02/application",
+    "skills": []
+  },
+  {
+    "company": "Cape",
+    "role": "Forward Deployed Engineer, East Asia",
+    "location": "Arlington, VA, Remote",
+    "type": "Full-time",
+    "posted": "2026-06-09",
+    "url": "https://jobs.ashbyhq.com/cape/cc18572e-fa2f-46cb-94e9-fcac492314f8/application",
+    "skills": []
+  },
+  {
+    "company": "Labelbox",
+    "role": "Forward Deployed Engineering Manager",
+    "location": "San Francisco Bay Area",
+    "type": "Full-time",
+    "posted": "2026-06-08",
+    "url": "https://job-boards.greenhouse.io/labelbox/jobs/5158989007",
+    "skills": []
+  },
+  {
+    "company": "Handshake",
+    "role": "Senior Manager, Forward Deployed Engineering",
+    "location": "San Francisco, CA",
+    "type": "Senior",
+    "posted": "2026-06-08",
+    "url": "https://jobs.ashbyhq.com/handshake/fb6f274a-ec59-497b-a119-8155c5d85190/application",
+    "skills": []
+  },
+  {
+    "company": "Normal Computing",
+    "role": "Forward Deployed Engineer",
+    "location": "New York City, Remote",
+    "type": "Full-time",
+    "posted": "2026-06-08",
+    "url": "https://jobs.ashbyhq.com/NormalComputing/a1829ea4-36fc-42a9-af1d-5382f121ccf7/application",
+    "skills": [
+      "EDA system",
+      "distributed systems",
+      "System Verilog"
+    ]
+  },
+  {
+    "company": "Coder",
+    "role": "Senior Forward Deployed Engineer (London)",
+    "location": "London, Remote",
+    "type": "Senior",
+    "posted": "2026-06-08",
+    "url": "https://jobs.ashbyhq.com/Coder/0d1eb14a-4469-4f17-9d45-7994886e3154/application",
+    "skills": [
+      "deployment architecture",
+      "agentic development workflows",
+      "technical authority",
+      "customer engagement",
+      "environment design",
+      "onboarding"
+    ]
+  },
+  {
+    "company": "Aledade",
+    "role": "Senior Software Engineer II- (Forward Deployed AI)",
+    "location": "Remote, United States, Remote",
+    "type": "Senior",
+    "posted": "2026-06-05",
+    "url": "https://jobs.lever.co/aledade/5da33ae4-d547-4656-ac3c-b461ec2c5220/apply",
+    "skills": [
+      "Claude Code",
+      "MCP",
+      "plugins",
+      "skills",
+      "hooks"
+    ]
+  },
+  {
+    "company": "Aledade",
+    "role": "Senior Software Engineer I- (Forward Deployed AI)",
+    "location": "Remote, United States, Remote",
+    "type": "Senior",
+    "posted": "2026-06-05",
+    "url": "https://jobs.lever.co/aledade/39ea4348-1d97-4bf7-9905-b524c255dae2/apply",
+    "skills": [
+      "AI tools",
+      "integration",
+      "cloud services"
+    ]
+  },
+  {
+    "company": "GWI",
+    "role": "Forward Deployed Engineer",
+    "location": "London, UK",
+    "type": "Full-time",
+    "posted": "2026-06-05",
+    "url": "https://job-boards.greenhouse.io/globalwebindex/jobs/8551838002",
+    "skills": [
+      "AI platform",
+      "production code",
+      "data pipelines",
+      "workflow automations"
+    ]
+  },
+  {
+    "company": "Athelas",
+    "role": "Forward Deployed Engineer",
+    "location": "Mountain View, CA, Remote",
+    "type": "Full-time",
+    "posted": "2026-06-04",
+    "url": "https://jobs.ashbyhq.com/Commure/faeeff7f-b1f9-4db2-93ff-99da570f85b0/application",
+    "skills": []
+  },
+  {
+    "company": "Fermat Commerce",
+    "role": "Forward Deployed Engineer",
+    "location": "San Francisco, CA",
+    "type": "Full-time",
+    "posted": "2026-06-04",
+    "url": "https://job-boards.greenhouse.io/fermat/jobs/4272620009",
+    "skills": []
+  },
+  {
+    "company": "Juniper Square",
+    "role": "Senior Forward Deployed Engineer (AI)",
+    "location": "Americas (USA or Canada), Remote",
+    "type": "Senior",
+    "posted": "2026-06-03",
+    "url": "https://jobs.ashbyhq.com/junipersquare/dca589c1-d467-4a92-ab9b-76028aeacf45/application",
+    "skills": []
+  },
+  {
+    "company": "Braze",
+    "role": "Forward-Deployed Data Scientist II",
+    "location": "Paris",
+    "type": "Full-time",
+    "posted": "2026-06-03",
+    "url": "https://boards.greenhouse.io/braze/jobs/7966154?gh_jid=7966154",
+    "skills": [
+      "ML",
+      "data transformation",
+      "model training",
+      "customer success"
+    ]
+  },
+  {
+    "company": "Mistral AI",
+    "role": "Applied AI, Technical Lead, Forward Deployed AI Engineer - Munich",
+    "location": "Munich",
+    "type": "Senior",
+    "posted": "2026-06-03",
+    "url": "https://jobs.lever.co/mistral/45b0fae3-61ea-4cb0-8cd1-c1bc2a43a84a/apply",
+    "skills": [
+      "Machine Learning",
+      "GenAI",
+      "LLM applications",
+      "inference",
+      "fine-tuning"
+    ]
+  },
+  {
+    "company": "Mistral AI",
+    "role": "Applied AI, Forward Deployed Machine Learning Engineer - Munich",
+    "location": "Munich",
+    "type": "Full-time",
+    "posted": "2026-06-03",
+    "url": "https://jobs.lever.co/mistral/aff9f13c-e79f-4d66-98b1-f62dd1c552cd/apply",
+    "skills": [
+      "Machine Learning",
+      "GenAI",
+      "LLM applications",
+      "inference",
+      "fine-tuning"
+    ]
+  },
+  {
+    "company": "Mistral AI",
+    "role": "Applied AI,  Senior/Staff Forward Deployed Machine Learning Engineer - Munich",
+    "location": "Munich",
+    "type": "Senior",
+    "posted": "2026-06-03",
+    "url": "https://jobs.lever.co/mistral/b2498ec4-51e7-46b7-b258-d9bc40b6e39e/apply",
+    "skills": []
+  },
+  {
+    "company": "CommerceIQ",
+    "role": "Forward Deployed Engineering Manager",
+    "location": "Mountain View, United States",
+    "type": "Full-time",
+    "posted": "2026-06-02",
+    "url": "https://job-boards.greenhouse.io/commerceiq/jobs/7752965003",
+    "skills": [
+      "AI",
+      "engineering",
+      "autonomous agents",
+      "product-market fit"
+    ]
+  },
+  {
+    "company": "Omada Health",
+    "role": "Senior Forward Deployed Engineer - Finance AI Enablement",
+    "location": "Remote, USA, Remote",
+    "type": "Senior",
+    "posted": "2026-06-01",
+    "url": "https://job-boards.greenhouse.io/omadahealth/jobs/7964773",
+    "skills": [
+      "AI",
+      "engineering",
+      "systems integration",
+      "workflow automation",
+      "product thinking"
+    ]
+  },
+  {
+    "company": "Box",
+    "role": "Forward Deployed Engineer",
+    "location": "Chicago, IL",
+    "type": "Full-time",
+    "posted": "2026-06-01",
+    "url": "https://job-boards.greenhouse.io/boxinc/jobs/7974935",
+    "skills": []
+  },
+  {
+    "company": "Norm AI",
+    "role": "Legal Engineer - Forward Deployed",
+    "location": "New York City, Remote",
+    "type": "Full-time",
+    "posted": "2026-06-01",
+    "url": "https://jobs.ashbyhq.com/norm-ai/cc6930b2-a6ef-497a-bff7-7d91175ef8ea/application",
+    "skills": []
+  },
+  {
+    "company": "Attio",
+    "role": "Forward Deployed Engineer",
+    "location": "New York, Remote",
+    "type": "Full-time",
+    "posted": "2026-05-29",
+    "url": "https://jobs.ashbyhq.com/attio/cef00929-63ab-4927-8a3c-1ea1d4224606/application",
+    "skills": [
+      "CRM",
+      "API integrations",
+      "data architecture",
+      "no-code automations"
+    ]
+  },
+  {
+    "company": "Omada Health",
+    "role": "Senior Forward Deployed AI Engineer",
+    "location": "Remote, USA, Remote",
+    "type": "Senior",
+    "posted": "2026-05-29",
+    "url": "https://job-boards.greenhouse.io/omadahealth/jobs/7967224",
+    "skills": [
+      "AI",
+      "MCP",
+      "automation",
+      "integration",
+      "security",
+      "governance"
+    ]
+  },
+  {
+    "company": "Hightouch",
+    "role": "Forward Deployed Creative Strategist",
+    "location": "New York, Remote, Remote",
+    "type": "Full-time",
+    "posted": "2026-05-28",
+    "url": "https://job-boards.greenhouse.io/hightouch/jobs/6008745004",
+    "skills": []
+  },
+  {
+    "company": "Komodo Health",
+    "role": "Senior Forward Deployed Engineer, AI",
+    "location": "United States",
+    "type": "Senior",
+    "posted": "2026-05-28",
+    "url": "https://job-boards.greenhouse.io/komodohealth/jobs/8569468002",
+    "skills": []
+  },
+  {
+    "company": "Code Metal",
+    "role": "Forward Deployed Engineer",
+    "location": "Boston Hub, Remote",
+    "type": "Full-time",
+    "posted": "2026-05-22",
+    "url": "https://jobs.ashbyhq.com/code-metal/0ec68c93-f625-4d6f-b489-c483550c0158/application",
+    "skills": [
+      "DSP",
+      "RF",
+      "algorithms",
+      "GPUs",
+      "FPGAs",
+      "ASICs"
+    ]
+  },
+  {
+    "company": "Abacus Insights",
+    "role": "Senior Sustaining and Forward Deployed Engineer",
+    "location": "Remote US, Remote",
+    "type": "Senior",
+    "posted": "2026-05-22",
+    "url": "https://boards.greenhouse.io/abacusinsights/jobs/8560928002?gh_jid=8560928002",
+    "skills": []
+  },
+  {
+    "company": "Coder",
+    "role": "Forward Deployed Engineering Manager",
+    "location": "United States, Remote",
+    "type": "Full-time",
+    "posted": "2026-05-21",
+    "url": "https://jobs.ashbyhq.com/Coder/61ae90f7-72a7-49a8-96d9-3ce567eb7419/application",
+    "skills": []
+  },
+  {
+    "company": "Athelas",
+    "role": "Senior Forward Deployed Engineer",
+    "location": "Mountain View, CA, Remote",
+    "type": "Senior",
+    "posted": "2026-05-19",
+    "url": "https://jobs.ashbyhq.com/Commure/61965fb1-439b-4d66-9d75-ab7b0197b705/application",
+    "skills": []
+  },
+  {
+    "company": "FourKites",
+    "role": "Forward Deployed Engineer",
+    "location": "Chicago, IL",
+    "type": "Full-time",
+    "posted": "2026-05-18",
+    "url": "https://job-boards.greenhouse.io/fourkites/jobs/7930668",
+    "skills": [
+      "Java",
+      "Python"
+    ]
+  },
+  {
+    "company": "Monte Carlo",
+    "role": "Applied Forward Deployed Engineer (FDE)",
+    "location": "Remote, US, Remote",
+    "type": "Full-time",
+    "posted": "2026-05-18",
+    "url": "https://jobs.ashbyhq.com/montecarlodata/be0320e9-f13f-4470-80a1-db9b8c9a6bb2/application",
+    "skills": [
+      "Python",
+      "SQL",
+      "REST APIs"
+    ]
+  },
+  {
+    "company": "Encord",
+    "role": "Forward Deployed Engineer",
+    "location": "San Francisco",
+    "type": "Full-time",
+    "posted": "2026-05-18",
+    "url": "https://jobs.ashbyhq.com/encord/9f97576a-5381-4839-a7cf-ebfa82089a63/application",
+    "skills": []
+  },
+  {
+    "company": "Gecko Robotics",
+    "role": "Forward Deployed Robotics Engineer",
+    "location": "Pittsburgh",
+    "type": "Full-time",
+    "posted": "2026-05-15",
+    "url": "https://jobs.ashbyhq.com/gecko-robotics/241e909f-fa90-4615-a026-4ed7b7a767f9/application",
+    "skills": [
+      "underwater sensor fusion",
+      "localization",
+      "IMUs",
+      "DVLs",
+      "pressure sensors",
+      "acoustic positioning systems"
+    ]
+  },
+  {
+    "company": "Kong",
+    "role": "Forward Deployed Engineer",
+    "location": "Remote - New Jersey, Remote",
+    "type": "Full-time",
+    "posted": "2026-05-15",
+    "url": "https://jobs.ashbyhq.com/kong/7612d87b-5e7e-47f3-8bae-837acc0f12ab/application",
+    "skills": [
+      "API management",
+      "AI connectivity",
+      "automation",
+      "migration tooling",
+      "solution engineering"
+    ]
+  },
+  {
+    "company": "Faculty",
+    "role": "Lead Forward Deployed Engineer",
+    "location": "UK - London",
+    "type": "Senior",
+    "posted": "2026-05-15",
+    "url": "https://jobs.ashbyhq.com/faculty/e3f544c9-e520-4799-ab4d-c0b3cb050760/application",
+    "skills": []
+  },
+  {
+    "company": "Applied Intuition",
+    "role": "Forward Deployed Engineer (EMEA)",
+    "location": "Munich",
+    "type": "Full-time",
+    "posted": "2026-05-15",
+    "url": "https://jobs.ashbyhq.com/applied/839a96a2-aec5-4428-b045-ae15633a4a76/application",
+    "skills": []
+  },
+  {
+    "company": "Handshake",
+    "role": "Forward Deployed Engineer, Handshake AI Enterprise",
+    "location": "San Francisco, CA",
+    "type": "Full-time",
+    "posted": "2026-05-14",
+    "url": "https://jobs.ashbyhq.com/handshake/c91b7ebf-2c69-4d91-809d-a30ea0b9dc18/application",
+    "skills": []
+  }
 ]
