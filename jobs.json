@@ -1,6 +1,6 @@
 [
   {
-    "slug": "greenhouse-8568122002",
+    "dedupeKey": "greenhouse:8568122002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Sr. Specialist Solutions Architect - Data Engineering & Warehousing",
@@ -50,7 +50,7 @@
     "posted": "2026-06-29T21:38:51.000Z"
   },
   {
-    "slug": "greenhouse-8462016002",
+    "dedupeKey": "greenhouse:8462016002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Forward Deployed Engineer",
@@ -79,7 +79,7 @@
     "posted": "2026-06-29T17:00:25.000Z"
   },
   {
-    "slug": "greenhouse-8439047002",
+    "dedupeKey": "greenhouse:8439047002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Forward Deployed Engineer - Emerging Enterprise & DNB",
@@ -104,7 +104,7 @@
     "posted": "2026-06-29T17:00:22.000Z"
   },
   {
-    "slug": "greenhouse-8396801002",
+    "dedupeKey": "greenhouse:8396801002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Forward Deployed Engineer",
@@ -138,7 +138,7 @@
     "posted": "2026-06-29T17:00:17.000Z"
   },
   {
-    "slug": "greenhouse-4688589006",
+    "dedupeKey": "greenhouse:4688589006",
     "company": "CoreWeave",
     "companyDomain": "coreweave.com",
     "role": "Senior Specialist Field Engineer - Compute Infrastructure",
@@ -171,7 +171,7 @@
     "posted": "2026-06-29T16:49:59.000Z"
   },
   {
-    "slug": "greenhouse-4649044006",
+    "dedupeKey": "greenhouse:4649044006",
     "company": "CoreWeave",
     "companyDomain": "coreweave.com",
     "role": "Senior Specialist Field Engineer - HPC/AI/ML",
@@ -203,7 +203,7 @@
     "posted": "2026-06-29T16:49:59.000Z"
   },
   {
-    "slug": "greenhouse-4649036006",
+    "dedupeKey": "greenhouse:4649036006",
     "company": "CoreWeave",
     "companyDomain": "coreweave.com",
     "role": "Senior Specialist Field Engineer - Kubernetes",
@@ -232,7 +232,7 @@
     "posted": "2026-06-29T16:49:59.000Z"
   },
   {
-    "slug": "greenhouse-4688572006",
+    "dedupeKey": "greenhouse:4688572006",
     "company": "CoreWeave",
     "companyDomain": "coreweave.com",
     "role": "Senior Specialist Field Engineer - Networking",
@@ -264,7 +264,7 @@
     "posted": "2026-06-29T16:49:59.000Z"
   },
   {
-    "slug": "greenhouse-4688579006",
+    "dedupeKey": "greenhouse:4688579006",
     "company": "CoreWeave",
     "companyDomain": "coreweave.com",
     "role": "Senior Specialist Field Engineer - Networking",
@@ -289,7 +289,7 @@
     "posted": "2026-06-29T16:49:59.000Z"
   },
   {
-    "slug": "greenhouse-4568528006",
+    "dedupeKey": "greenhouse:4568528006",
     "company": "CoreWeave",
     "companyDomain": "coreweave.com",
     "role": "Senior Specialist Field Engineer - Networking",
@@ -319,7 +319,7 @@
     "posted": "2026-06-29T16:49:59.000Z"
   },
   {
-    "slug": "greenhouse-4568531006",
+    "dedupeKey": "greenhouse:4568531006",
     "company": "CoreWeave",
     "companyDomain": "coreweave.com",
     "role": "Senior Specialist Field Engineer - Storage",
@@ -348,7 +348,7 @@
     "posted": "2026-06-29T16:49:59.000Z"
   },
   {
-    "slug": "greenhouse-4688583006",
+    "dedupeKey": "greenhouse:4688583006",
     "company": "CoreWeave",
     "companyDomain": "coreweave.com",
     "role": "Senior Specialist Field Engineer - Storage",
@@ -375,7 +375,7 @@
     "posted": "2026-06-29T16:49:59.000Z"
   },
   {
-    "slug": "greenhouse-4690497006",
+    "dedupeKey": "greenhouse:4690497006",
     "company": "CoreWeave",
     "companyDomain": "coreweave.com",
     "role": "Staff Specialist Field Engineer, Autonomous Vehicles",
@@ -406,7 +406,7 @@
     "posted": "2026-06-29T16:49:59.000Z"
   },
   {
-    "slug": "greenhouse-4690512006",
+    "dedupeKey": "greenhouse:4690512006",
     "company": "CoreWeave",
     "companyDomain": "coreweave.com",
     "role": "Staff Specialist Field Engineer, Robotics",
@@ -440,7 +440,7 @@
     "posted": "2026-06-29T16:49:59.000Z"
   },
   {
-    "slug": "greenhouse-8559315002",
+    "dedupeKey": "greenhouse:8559315002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Delivery Solutions Architect - Public Sector",
@@ -467,7 +467,7 @@
     "posted": "2026-06-29T16:33:10.000Z"
   },
   {
-    "slug": "lever-e500bcf3-19d8-4d3c-b340-4d76e4a55b40",
+    "dedupeKey": "lever:e500bcf3-19d8-4d3c-b340-4d76e4a55b40",
     "company": "Palantir",
     "companyDomain": "palantir.com",
     "role": "Forward Deployed Software Engineer, New Grad - Commercial",
@@ -497,7 +497,7 @@
     "posted": "2026-06-29T14:44:20.702Z"
   },
   {
-    "slug": "greenhouse-8546365002",
+    "dedupeKey": "greenhouse:8546365002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Sr. AI Engineer - FDE (Forward Deployed Engineer) - U.S. Federal Sector",
@@ -529,7 +529,7 @@
     "posted": "2026-06-29T14:14:32.000Z"
   },
   {
-    "slug": "breezy-cf7f405cd2f3",
+    "dedupeKey": "breezy:cf7f405cd2f3",
     "company": "MelodyArc",
     "companyDomain": "melodyarc.com",
     "role": "Deployment Strategist (DS) & Senior Deployment Strategist (Sr. DS)",
@@ -563,7 +563,7 @@
     "posted": "2026-06-29T14:00:16.779Z"
   },
   {
-    "slug": "lever-1f007e36-a620-4d15-bf0b-70dc3f3439d8",
+    "dedupeKey": "lever:1f007e36-a620-4d15-bf0b-70dc3f3439d8",
     "company": "Palantir",
     "companyDomain": "palantir.com",
     "role": "Deployment Strategist - Spain",
@@ -591,7 +591,7 @@
     "posted": "2026-06-29T12:13:51.262Z"
   },
   {
-    "slug": "lever-53fb4c05-f949-4146-a046-5c063c36a628",
+    "dedupeKey": "lever:53fb4c05-f949-4146-a046-5c063c36a628",
     "company": "Palantir",
     "companyDomain": "palantir.com",
     "role": "Forward Deployed Software Engineer - Spain",
@@ -618,7 +618,7 @@
     "posted": "2026-06-29T11:38:59.235Z"
   },
   {
-    "slug": "lever-55c68159-62d3-40ed-b4a7-8b586dc99200",
+    "dedupeKey": "lever:55c68159-62d3-40ed-b4a7-8b586dc99200",
     "company": "Palantir",
     "companyDomain": "palantir.com",
     "role": "Deployment Strategist",
@@ -643,7 +643,7 @@
     "posted": "2026-06-29T11:23:26.546Z"
   },
   {
-    "slug": "greenhouse-8439078002",
+    "dedupeKey": "greenhouse:8439078002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Senior Manager, Forward Deployed Engineering (Full Stack) x 2 New roles",
@@ -674,7 +674,7 @@
     "posted": "2026-06-29T09:41:40.000Z"
   },
   {
-    "slug": "greenhouse-8529348002",
+    "dedupeKey": "greenhouse:8529348002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Solutions Architect (Vietnam)",
@@ -697,7 +697,7 @@
     "posted": "2026-06-29T07:59:49.000Z"
   },
   {
-    "slug": "workday-jr2002855",
+    "dedupeKey": "workday:JR2002855",
     "company": "2100 NVIDIA USA",
     "companyDomain": "nvidia.com",
     "role": "Solutions Architect, Agentic AI",
@@ -735,7 +735,7 @@
     "posted": "2026-06-29T00:00:00.000Z"
   },
   {
-    "slug": "greenhouse-4854889007",
+    "dedupeKey": "greenhouse:4854889007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Regional Train and Advise Lead, Middle East",
@@ -759,7 +759,7 @@
     "posted": "2026-06-28T09:16:56.000Z"
   },
   {
-    "slug": "greenhouse-8598012002",
+    "dedupeKey": "greenhouse:8598012002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Delivery Solutions Architect - Communications, Media, Entertainment & Games",
@@ -787,7 +787,7 @@
     "posted": "2026-06-27T00:17:38.000Z"
   },
   {
-    "slug": "greenhouse-8585021002",
+    "dedupeKey": "greenhouse:8585021002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Head of AI Forward Deployed Engineering (FDE), Public Sector",
@@ -815,7 +815,7 @@
     "posted": "2026-06-27T00:17:38.000Z"
   },
   {
-    "slug": "greenhouse-8585019002",
+    "dedupeKey": "greenhouse:8585019002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Manager, Forward Deployed Engineering - CMEG",
@@ -847,7 +847,7 @@
     "posted": "2026-06-27T00:17:38.000Z"
   },
   {
-    "slug": "greenhouse-8585023002",
+    "dedupeKey": "greenhouse:8585023002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Manager, Forward Deployed Engineering - Manufacturing",
@@ -876,7 +876,7 @@
     "posted": "2026-06-27T00:17:38.000Z"
   },
   {
-    "slug": "greenhouse-8598430002",
+    "dedupeKey": "greenhouse:8598430002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Senior Forward Deployed Engineer - Full stack",
@@ -907,7 +907,7 @@
     "posted": "2026-06-27T00:17:38.000Z"
   },
   {
-    "slug": "greenhouse-8605158002",
+    "dedupeKey": "greenhouse:8605158002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Solutions Architect - Financial Services (Asset and Wealth Management)",
@@ -952,7 +952,7 @@
     "posted": "2026-06-27T00:17:38.000Z"
   },
   {
-    "slug": "greenhouse-8574655002",
+    "dedupeKey": "greenhouse:8574655002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "AI Engineer - FDE (Forward Deployed Engineer)",
@@ -980,7 +980,7 @@
     "posted": "2026-06-27T00:17:37.000Z"
   },
   {
-    "slug": "greenhouse-8575048002",
+    "dedupeKey": "greenhouse:8575048002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Delivery Solutions Architect",
@@ -1007,7 +1007,7 @@
     "posted": "2026-06-27T00:17:37.000Z"
   },
   {
-    "slug": "greenhouse-8575044002",
+    "dedupeKey": "greenhouse:8575044002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Delivery Solutions Architect",
@@ -1035,7 +1035,7 @@
     "posted": "2026-06-27T00:17:37.000Z"
   },
   {
-    "slug": "greenhouse-8596092002",
+    "dedupeKey": "greenhouse:8596092002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Senior Manager, Field Engineering - Lakebase ",
@@ -1069,7 +1069,7 @@
     "posted": "2026-06-27T00:17:37.000Z"
   },
   {
-    "slug": "greenhouse-8596093002",
+    "dedupeKey": "greenhouse:8596093002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Senior Manager, Field Engineering - Lakebase ",
@@ -1103,7 +1103,7 @@
     "posted": "2026-06-27T00:17:37.000Z"
   },
   {
-    "slug": "greenhouse-8596090002",
+    "dedupeKey": "greenhouse:8596090002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Senior Manager, Field Engineering - Lakebase ",
@@ -1137,7 +1137,7 @@
     "posted": "2026-06-27T00:17:37.000Z"
   },
   {
-    "slug": "greenhouse-8568039002",
+    "dedupeKey": "greenhouse:8568039002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Senior Manager, Field Engineering - Lakebase ",
@@ -1170,7 +1170,7 @@
     "posted": "2026-06-27T00:17:37.000Z"
   },
   {
-    "slug": "greenhouse-8567985002",
+    "dedupeKey": "greenhouse:8567985002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Solutions Architect (Lakebase)",
@@ -1202,7 +1202,7 @@
     "posted": "2026-06-27T00:17:37.000Z"
   },
   {
-    "slug": "greenhouse-8568029002",
+    "dedupeKey": "greenhouse:8568029002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Solutions Architect (Lakebase)",
@@ -1234,7 +1234,7 @@
     "posted": "2026-06-27T00:17:37.000Z"
   },
   {
-    "slug": "greenhouse-8568023002",
+    "dedupeKey": "greenhouse:8568023002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Solutions Architect (Lakebase)",
@@ -1266,7 +1266,7 @@
     "posted": "2026-06-27T00:17:37.000Z"
   },
   {
-    "slug": "greenhouse-8568173002",
+    "dedupeKey": "greenhouse:8568173002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Sr. Forward Deployed Engineer",
@@ -1295,7 +1295,7 @@
     "posted": "2026-06-27T00:17:37.000Z"
   },
   {
-    "slug": "greenhouse-8578144002",
+    "dedupeKey": "greenhouse:8578144002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Sr. Forward Deployed Engineer",
@@ -1317,7 +1317,7 @@
     "posted": "2026-06-27T00:17:37.000Z"
   },
   {
-    "slug": "greenhouse-8574912002",
+    "dedupeKey": "greenhouse:8574912002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Sr. Manager, AI Forward Deployed Engineering (FDE) – EMEA",
@@ -1350,7 +1350,7 @@
     "posted": "2026-06-27T00:17:37.000Z"
   },
   {
-    "slug": "greenhouse-8568033002",
+    "dedupeKey": "greenhouse:8568033002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Sr. Manager, Field Engineering - Lakebase",
@@ -1380,7 +1380,7 @@
     "posted": "2026-06-27T00:17:37.000Z"
   },
   {
-    "slug": "greenhouse-8554842002",
+    "dedupeKey": "greenhouse:8554842002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Delivery Solutions Architect",
@@ -1407,7 +1407,7 @@
     "posted": "2026-06-27T00:17:36.000Z"
   },
   {
-    "slug": "greenhouse-8549681002",
+    "dedupeKey": "greenhouse:8549681002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Delivery Solutions Architect",
@@ -1433,7 +1433,7 @@
     "posted": "2026-06-27T00:17:36.000Z"
   },
   {
-    "slug": "greenhouse-8549044002",
+    "dedupeKey": "greenhouse:8549044002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Delivery Solutions Architect",
@@ -1462,7 +1462,7 @@
     "posted": "2026-06-27T00:17:36.000Z"
   },
   {
-    "slug": "greenhouse-8548984002",
+    "dedupeKey": "greenhouse:8548984002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Delivery Solutions Architect - Digital Native Business",
@@ -1488,7 +1488,7 @@
     "posted": "2026-06-27T00:17:36.000Z"
   },
   {
-    "slug": "greenhouse-8548986002",
+    "dedupeKey": "greenhouse:8548986002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Delivery Solutions Architect - Digital Native Business",
@@ -1517,7 +1517,7 @@
     "posted": "2026-06-27T00:17:36.000Z"
   },
   {
-    "slug": "greenhouse-8549046002",
+    "dedupeKey": "greenhouse:8549046002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Delivery Solutions Architect - High-Tech & Manufacturing",
@@ -1545,7 +1545,7 @@
     "posted": "2026-06-27T00:17:36.000Z"
   },
   {
-    "slug": "greenhouse-8540455002",
+    "dedupeKey": "greenhouse:8540455002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Forward Deployed Engineer",
@@ -1583,7 +1583,7 @@
     "posted": "2026-06-27T00:17:36.000Z"
   },
   {
-    "slug": "greenhouse-8554531002",
+    "dedupeKey": "greenhouse:8554531002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Forward Deployed Engineer - FDE (Fullstack)",
@@ -1612,7 +1612,7 @@
     "posted": "2026-06-27T00:17:36.000Z"
   },
   {
-    "slug": "greenhouse-8565280002",
+    "dedupeKey": "greenhouse:8565280002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Manager, Delivery Solutions Architects - Financial Services",
@@ -1635,7 +1635,7 @@
     "posted": "2026-06-27T00:17:36.000Z"
   },
   {
-    "slug": "greenhouse-8563185002",
+    "dedupeKey": "greenhouse:8563185002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Manager, Delivery Solutions Architects - Toronto, ON",
@@ -1663,7 +1663,7 @@
     "posted": "2026-06-27T00:17:36.000Z"
   },
   {
-    "slug": "greenhouse-8527663002",
+    "dedupeKey": "greenhouse:8527663002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Manager, Field Engineering",
@@ -1691,7 +1691,7 @@
     "posted": "2026-06-27T00:17:36.000Z"
   },
   {
-    "slug": "greenhouse-8544533002",
+    "dedupeKey": "greenhouse:8544533002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Specialist Solutions Architect - AI/ML",
@@ -1727,7 +1727,7 @@
     "posted": "2026-06-27T00:17:36.000Z"
   },
   {
-    "slug": "greenhouse-8549058002",
+    "dedupeKey": "greenhouse:8549058002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Sr. Delivery Solutions Architect",
@@ -1754,7 +1754,7 @@
     "posted": "2026-06-27T00:17:36.000Z"
   },
   {
-    "slug": "greenhouse-8538914002",
+    "dedupeKey": "greenhouse:8538914002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Sr. Delivery Solutions Architect",
@@ -1783,7 +1783,7 @@
     "posted": "2026-06-27T00:17:36.000Z"
   },
   {
-    "slug": "greenhouse-8543937002",
+    "dedupeKey": "greenhouse:8543937002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Sr. Engagement Manager",
@@ -1808,7 +1808,7 @@
     "posted": "2026-06-27T00:17:36.000Z"
   },
   {
-    "slug": "greenhouse-8530605002",
+    "dedupeKey": "greenhouse:8530605002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Sr. Engagement Manager, Forward Deployed Engineering - LATAM",
@@ -1834,7 +1834,7 @@
     "posted": "2026-06-27T00:17:36.000Z"
   },
   {
-    "slug": "greenhouse-8605164002",
+    "dedupeKey": "greenhouse:8605164002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Sr. Field Technical Program Manager",
@@ -1861,7 +1861,7 @@
     "posted": "2026-06-27T00:17:36.000Z"
   },
   {
-    "slug": "greenhouse-8534142002",
+    "dedupeKey": "greenhouse:8534142002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Sr. Forward Deployed Engineer",
@@ -1895,7 +1895,7 @@
     "posted": "2026-06-27T00:17:36.000Z"
   },
   {
-    "slug": "greenhouse-8541221002",
+    "dedupeKey": "greenhouse:8541221002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Sr. Solutions Architect - AI Natives Business",
@@ -1932,7 +1932,7 @@
     "posted": "2026-06-27T00:17:36.000Z"
   },
   {
-    "slug": "greenhouse-8482406002",
+    "dedupeKey": "greenhouse:8482406002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Delivery Solutions Architect",
@@ -1963,7 +1963,7 @@
     "posted": "2026-06-27T00:17:35.000Z"
   },
   {
-    "slug": "greenhouse-8609622002",
+    "dedupeKey": "greenhouse:8609622002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Delivery Solutions Architect",
@@ -1992,7 +1992,7 @@
     "posted": "2026-06-27T00:17:35.000Z"
   },
   {
-    "slug": "greenhouse-8609617002",
+    "dedupeKey": "greenhouse:8609617002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Delivery Solutions Architect",
@@ -2021,7 +2021,7 @@
     "posted": "2026-06-27T00:17:35.000Z"
   },
   {
-    "slug": "greenhouse-8515642002",
+    "dedupeKey": "greenhouse:8515642002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Director, AI Forward Deployed Engineering (FDE)",
@@ -2053,7 +2053,7 @@
     "posted": "2026-06-27T00:17:35.000Z"
   },
   {
-    "slug": "greenhouse-8488399002",
+    "dedupeKey": "greenhouse:8488399002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Forward Deployed Engineer - FDE (Fullstack) - Digital Native Business ",
@@ -2083,7 +2083,7 @@
     "posted": "2026-06-27T00:17:35.000Z"
   },
   {
-    "slug": "greenhouse-8491126002",
+    "dedupeKey": "greenhouse:8491126002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Manager, Field Engineering France",
@@ -2112,7 +2112,7 @@
     "posted": "2026-06-27T00:17:35.000Z"
   },
   {
-    "slug": "greenhouse-8517065002",
+    "dedupeKey": "greenhouse:8517065002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Manager, Field Engineering France  - Specialist Solutions Architects",
@@ -2136,7 +2136,7 @@
     "posted": "2026-06-27T00:17:35.000Z"
   },
   {
-    "slug": "greenhouse-8501125002",
+    "dedupeKey": "greenhouse:8501125002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": " Resident Solutions Architect",
@@ -2166,7 +2166,7 @@
     "posted": "2026-06-27T00:17:35.000Z"
   },
   {
-    "slug": "greenhouse-8487768002",
+    "dedupeKey": "greenhouse:8487768002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Solutions Architect - Strategic AI Natives",
@@ -2203,7 +2203,7 @@
     "posted": "2026-06-27T00:17:35.000Z"
   },
   {
-    "slug": "greenhouse-8511500002",
+    "dedupeKey": "greenhouse:8511500002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Sr. Delivery Solutions Architect",
@@ -2231,7 +2231,7 @@
     "posted": "2026-06-27T00:17:35.000Z"
   },
   {
-    "slug": "greenhouse-8516116002",
+    "dedupeKey": "greenhouse:8516116002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Sr. Forward Deployed Engineer",
@@ -2264,7 +2264,7 @@
     "posted": "2026-06-27T00:17:35.000Z"
   },
   {
-    "slug": "greenhouse-8514430002",
+    "dedupeKey": "greenhouse:8514430002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Sr. Forward Deployed Engineer",
@@ -2298,7 +2298,7 @@
     "posted": "2026-06-27T00:17:35.000Z"
   },
   {
-    "slug": "greenhouse-8496009002",
+    "dedupeKey": "greenhouse:8496009002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Sr. Manager, Field Engineering - Digital Native Business",
@@ -2323,7 +2323,7 @@
     "posted": "2026-06-27T00:17:35.000Z"
   },
   {
-    "slug": "greenhouse-8493787002",
+    "dedupeKey": "greenhouse:8493787002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Sr. Specialist Solutions Architect - Builder Team",
@@ -2354,7 +2354,7 @@
     "posted": "2026-06-27T00:17:35.000Z"
   },
   {
-    "slug": "greenhouse-8476496002",
+    "dedupeKey": "greenhouse:8476496002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Delivery Solutions Architect",
@@ -2383,7 +2383,7 @@
     "posted": "2026-06-27T00:17:34.000Z"
   },
   {
-    "slug": "greenhouse-8465963002",
+    "dedupeKey": "greenhouse:8465963002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Delivery Solutions Architect",
@@ -2411,7 +2411,7 @@
     "posted": "2026-06-27T00:17:34.000Z"
   },
   {
-    "slug": "greenhouse-8442976002",
+    "dedupeKey": "greenhouse:8442976002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Delivery Solutions Architect - Financial Services",
@@ -2440,7 +2440,7 @@
     "posted": "2026-06-27T00:17:34.000Z"
   },
   {
-    "slug": "greenhouse-8476399002",
+    "dedupeKey": "greenhouse:8476399002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Delivery Solutions Architect - Healthcare & Life Sciences",
@@ -2469,7 +2469,7 @@
     "posted": "2026-06-27T00:17:34.000Z"
   },
   {
-    "slug": "greenhouse-8446027002",
+    "dedupeKey": "greenhouse:8446027002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Manager, Field Engineering - Strategic Accounts Germany",
@@ -2508,7 +2508,7 @@
     "posted": "2026-06-27T00:17:34.000Z"
   },
   {
-    "slug": "greenhouse-8458032002",
+    "dedupeKey": "greenhouse:8458032002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Manager, Field Engineering - Strategic Digital Native Business",
@@ -2532,7 +2532,7 @@
     "posted": "2026-06-27T00:17:34.000Z"
   },
   {
-    "slug": "greenhouse-8445817002",
+    "dedupeKey": "greenhouse:8445817002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Manager, Forward Deployed Engineering",
@@ -2562,7 +2562,7 @@
     "posted": "2026-06-27T00:17:34.000Z"
   },
   {
-    "slug": "greenhouse-8449860002",
+    "dedupeKey": "greenhouse:8449860002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Partner Solutions Architect",
@@ -2594,7 +2594,7 @@
     "posted": "2026-06-27T00:17:34.000Z"
   },
   {
-    "slug": "greenhouse-8439182002",
+    "dedupeKey": "greenhouse:8439182002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Partner Solutions Architect",
@@ -2629,7 +2629,7 @@
     "posted": "2026-06-27T00:17:34.000Z"
   },
   {
-    "slug": "greenhouse-8450157002",
+    "dedupeKey": "greenhouse:8450157002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Solutions Architect -  Field Engineering (GCC)",
@@ -2664,7 +2664,7 @@
     "posted": "2026-06-27T00:17:34.000Z"
   },
   {
-    "slug": "greenhouse-8469076002",
+    "dedupeKey": "greenhouse:8469076002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Sr. Delivery Solutions Architect - AI Native",
@@ -2689,7 +2689,7 @@
     "posted": "2026-06-27T00:17:34.000Z"
   },
   {
-    "slug": "greenhouse-8592908002",
+    "dedupeKey": "greenhouse:8592908002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Sr. Forward Deployed Engineer - Financial Services",
@@ -2725,7 +2725,7 @@
     "posted": "2026-06-27T00:17:34.000Z"
   },
   {
-    "slug": "greenhouse-8592928002",
+    "dedupeKey": "greenhouse:8592928002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Sr. Forward Deployed Engineer - Financial Services",
@@ -2754,7 +2754,7 @@
     "posted": "2026-06-27T00:17:34.000Z"
   },
   {
-    "slug": "greenhouse-8592937002",
+    "dedupeKey": "greenhouse:8592937002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Sr. Forward Deployed Engineer - Financial Services",
@@ -2783,7 +2783,7 @@
     "posted": "2026-06-27T00:17:34.000Z"
   },
   {
-    "slug": "greenhouse-8592939002",
+    "dedupeKey": "greenhouse:8592939002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Sr. Forward Deployed Engineer - Financial Services",
@@ -2812,7 +2812,7 @@
     "posted": "2026-06-27T00:17:34.000Z"
   },
   {
-    "slug": "greenhouse-8592942002",
+    "dedupeKey": "greenhouse:8592942002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Sr. Forward Deployed Engineer - Financial Services",
@@ -2841,7 +2841,7 @@
     "posted": "2026-06-27T00:17:34.000Z"
   },
   {
-    "slug": "greenhouse-8592951002",
+    "dedupeKey": "greenhouse:8592951002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Sr. Forward Deployed Engineer - Financial Services",
@@ -2870,7 +2870,7 @@
     "posted": "2026-06-27T00:17:34.000Z"
   },
   {
-    "slug": "greenhouse-8592952002",
+    "dedupeKey": "greenhouse:8592952002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Sr. Forward Deployed Engineer - Financial Services",
@@ -2899,7 +2899,7 @@
     "posted": "2026-06-27T00:17:34.000Z"
   },
   {
-    "slug": "greenhouse-8428882002",
+    "dedupeKey": "greenhouse:8428882002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "デリバリーソリューションアーキテクト",
@@ -2924,7 +2924,7 @@
     "posted": "2026-06-27T00:17:33.000Z"
   },
   {
-    "slug": "greenhouse-8450551002",
+    "dedupeKey": "greenhouse:8450551002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Delivery Solutions Architect",
@@ -2954,7 +2954,7 @@
     "posted": "2026-06-27T00:17:33.000Z"
   },
   {
-    "slug": "greenhouse-8423289002",
+    "dedupeKey": "greenhouse:8423289002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Field Technical Program Manager, Forward Deployed Engineering - LATAM",
@@ -2977,7 +2977,7 @@
     "posted": "2026-06-27T00:17:33.000Z"
   },
   {
-    "slug": "greenhouse-8437022002",
+    "dedupeKey": "greenhouse:8437022002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Lead Solutions Architect, Financial Services",
@@ -3009,7 +3009,7 @@
     "posted": "2026-06-27T00:17:33.000Z"
   },
   {
-    "slug": "greenhouse-8438767002",
+    "dedupeKey": "greenhouse:8438767002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Manager, Field Engineering",
@@ -3035,7 +3035,7 @@
     "posted": "2026-06-27T00:17:33.000Z"
   },
   {
-    "slug": "greenhouse-8534469002",
+    "dedupeKey": "greenhouse:8534469002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Manager, Field Engineering",
@@ -3063,7 +3063,7 @@
     "posted": "2026-06-27T00:17:33.000Z"
   },
   {
-    "slug": "greenhouse-8437008002",
+    "dedupeKey": "greenhouse:8437008002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Solutions Architect",
@@ -3086,7 +3086,7 @@
     "posted": "2026-06-27T00:17:33.000Z"
   },
   {
-    "slug": "greenhouse-8432348002",
+    "dedupeKey": "greenhouse:8432348002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Solutions Architect, Hunter - Digital Native Business",
@@ -3117,7 +3117,7 @@
     "posted": "2026-06-27T00:17:33.000Z"
   },
   {
-    "slug": "greenhouse-8494149002",
+    "dedupeKey": "greenhouse:8494149002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Sr. Forward Deployed Engineer (FDE) - Public Sector",
@@ -3149,7 +3149,7 @@
     "posted": "2026-06-27T00:17:33.000Z"
   },
   {
-    "slug": "greenhouse-8494147002",
+    "dedupeKey": "greenhouse:8494147002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Sr. Forward Deployed Engineer (FDE) - Public Sector",
@@ -3181,7 +3181,7 @@
     "posted": "2026-06-27T00:17:33.000Z"
   },
   {
-    "slug": "greenhouse-8494128002",
+    "dedupeKey": "greenhouse:8494128002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Sr. Forward Deployed Engineer (FDE) - Public Sector",
@@ -3213,7 +3213,7 @@
     "posted": "2026-06-27T00:17:33.000Z"
   },
   {
-    "slug": "greenhouse-8461321002",
+    "dedupeKey": "greenhouse:8461321002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Sr. Forward Deployed Engineer (FDE) - Public Sector",
@@ -3245,7 +3245,7 @@
     "posted": "2026-06-27T00:17:33.000Z"
   },
   {
-    "slug": "greenhouse-8456973002",
+    "dedupeKey": "greenhouse:8456973002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Sr. Forward Deployed Engineer (FDE) - Public Sector",
@@ -3277,7 +3277,7 @@
     "posted": "2026-06-27T00:17:33.000Z"
   },
   {
-    "slug": "greenhouse-8494130002",
+    "dedupeKey": "greenhouse:8494130002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Sr. Forward Deployed Engineer (FDE) - Public Sector",
@@ -3309,7 +3309,7 @@
     "posted": "2026-06-27T00:17:33.000Z"
   },
   {
-    "slug": "greenhouse-8494137002",
+    "dedupeKey": "greenhouse:8494137002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Sr. Forward Deployed Engineer(FDE) - Public Sector",
@@ -3337,7 +3337,7 @@
     "posted": "2026-06-27T00:17:33.000Z"
   },
   {
-    "slug": "greenhouse-8438791002",
+    "dedupeKey": "greenhouse:8438791002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Sr. Forward Deployed Engineer - Financial Services",
@@ -3373,7 +3373,7 @@
     "posted": "2026-06-27T00:17:33.000Z"
   },
   {
-    "slug": "greenhouse-8592938002",
+    "dedupeKey": "greenhouse:8592938002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Sr. Forward Deployed Engineer - Financial Services",
@@ -3402,7 +3402,7 @@
     "posted": "2026-06-27T00:17:33.000Z"
   },
   {
-    "slug": "greenhouse-8456975002",
+    "dedupeKey": "greenhouse:8456975002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Sr. Forward Deployed Engineer - Public Sector",
@@ -3430,7 +3430,7 @@
     "posted": "2026-06-27T00:17:33.000Z"
   },
   {
-    "slug": "greenhouse-8423296002",
+    "dedupeKey": "greenhouse:8423296002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Sr. Forward Deployed Engineer - Public Sector",
@@ -3459,7 +3459,7 @@
     "posted": "2026-06-27T00:17:33.000Z"
   },
   {
-    "slug": "greenhouse-8397552002",
+    "dedupeKey": "greenhouse:8397552002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Director, Field Engineering",
@@ -3494,7 +3494,7 @@
     "posted": "2026-06-27T00:17:32.000Z"
   },
   {
-    "slug": "greenhouse-8397564002",
+    "dedupeKey": "greenhouse:8397564002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Director, Field Engineering",
@@ -3516,7 +3516,7 @@
     "posted": "2026-06-27T00:17:32.000Z"
   },
   {
-    "slug": "greenhouse-8397558002",
+    "dedupeKey": "greenhouse:8397558002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Director, Field Engineering",
@@ -3543,7 +3543,7 @@
     "posted": "2026-06-27T00:17:32.000Z"
   },
   {
-    "slug": "greenhouse-8403943002",
+    "dedupeKey": "greenhouse:8403943002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Lead Solutions Architect (Digital Natives Business)",
@@ -3583,7 +3583,7 @@
     "posted": "2026-06-27T00:17:32.000Z"
   },
   {
-    "slug": "greenhouse-8374096002",
+    "dedupeKey": "greenhouse:8374096002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Manager, Field Engineering Italy",
@@ -3611,7 +3611,7 @@
     "posted": "2026-06-27T00:17:32.000Z"
   },
   {
-    "slug": "greenhouse-8367942002",
+    "dedupeKey": "greenhouse:8367942002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Senior Forward Deployed Engineer (FDE, Full Stack)",
@@ -3640,7 +3640,7 @@
     "posted": "2026-06-27T00:17:32.000Z"
   },
   {
-    "slug": "greenhouse-8362737002",
+    "dedupeKey": "greenhouse:8362737002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Sr Forward Deployed Engineer",
@@ -3678,7 +3678,7 @@
     "posted": "2026-06-27T00:17:32.000Z"
   },
   {
-    "slug": "greenhouse-8494148002",
+    "dedupeKey": "greenhouse:8494148002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Sr. Forward Deployed Engineer (FDE) - Healthcare & Life Sciences",
@@ -3706,7 +3706,7 @@
     "posted": "2026-06-27T00:17:32.000Z"
   },
   {
-    "slug": "greenhouse-8494142002",
+    "dedupeKey": "greenhouse:8494142002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Sr. Forward Deployed Engineer (FDE) - Healthcare & Life Sciences",
@@ -3734,7 +3734,7 @@
     "posted": "2026-06-27T00:17:32.000Z"
   },
   {
-    "slug": "greenhouse-8494143002",
+    "dedupeKey": "greenhouse:8494143002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Sr. Forward Deployed Engineer (FDE) - Healthcare & Life Sciences",
@@ -3763,7 +3763,7 @@
     "posted": "2026-06-27T00:17:32.000Z"
   },
   {
-    "slug": "greenhouse-8494144002",
+    "dedupeKey": "greenhouse:8494144002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Sr. Forward Deployed Engineer (FDE) - Healthcare & Life Sciences",
@@ -3792,7 +3792,7 @@
     "posted": "2026-06-27T00:17:32.000Z"
   },
   {
-    "slug": "greenhouse-8494145002",
+    "dedupeKey": "greenhouse:8494145002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Sr. Forward Deployed Engineer (FDE) - Healthcare & Life Sciences",
@@ -3820,7 +3820,7 @@
     "posted": "2026-06-27T00:17:32.000Z"
   },
   {
-    "slug": "greenhouse-8494146002",
+    "dedupeKey": "greenhouse:8494146002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Sr. Forward Deployed Engineer (FDE) - Healthcare & Life Sciences",
@@ -3848,7 +3848,7 @@
     "posted": "2026-06-27T00:17:32.000Z"
   },
   {
-    "slug": "greenhouse-8371312002",
+    "dedupeKey": "greenhouse:8371312002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Sr. Forward Deployed Engineer (FDE)- Healthcare & Life Sciences",
@@ -3876,7 +3876,7 @@
     "posted": "2026-06-27T00:17:32.000Z"
   },
   {
-    "slug": "greenhouse-8356289002",
+    "dedupeKey": "greenhouse:8356289002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Sr. Forward Deployed Engineer (FDE) - Public Sector",
@@ -3903,7 +3903,7 @@
     "posted": "2026-06-27T00:17:32.000Z"
   },
   {
-    "slug": "greenhouse-8494107002",
+    "dedupeKey": "greenhouse:8494107002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Sr. Forward Deployed Engineer (FDE) - Public Sector",
@@ -3934,7 +3934,7 @@
     "posted": "2026-06-27T00:17:32.000Z"
   },
   {
-    "slug": "greenhouse-8494108002",
+    "dedupeKey": "greenhouse:8494108002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Sr. Forward Deployed Engineer (FDE) - Public Sector",
@@ -3963,7 +3963,7 @@
     "posted": "2026-06-27T00:17:32.000Z"
   },
   {
-    "slug": "greenhouse-8397493002",
+    "dedupeKey": "greenhouse:8397493002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Sr. Solutions Architect - Public Sector (SLED) ",
@@ -3996,7 +3996,7 @@
     "posted": "2026-06-27T00:17:32.000Z"
   },
   {
-    "slug": "greenhouse-8330188002",
+    "dedupeKey": "greenhouse:8330188002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "AI Engineer - FDE (Forward Deployed Engineer)",
@@ -4026,7 +4026,7 @@
     "posted": "2026-06-27T00:17:31.000Z"
   },
   {
-    "slug": "greenhouse-8298792002",
+    "dedupeKey": "greenhouse:8298792002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "AI Engineer - FDE (Forward Deployed Engineer)",
@@ -4056,7 +4056,7 @@
     "posted": "2026-06-27T00:17:31.000Z"
   },
   {
-    "slug": "greenhouse-8461168002",
+    "dedupeKey": "greenhouse:8461168002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Sr. Forward Deployed Engineer - Communications, Media, Entertainment & Games",
@@ -4085,7 +4085,7 @@
     "posted": "2026-06-27T00:17:31.000Z"
   },
   {
-    "slug": "greenhouse-8461218002",
+    "dedupeKey": "greenhouse:8461218002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Sr. Forward Deployed Engineer - Communications, Media, Entertainment & Games",
@@ -4124,7 +4124,7 @@
     "posted": "2026-06-27T00:17:31.000Z"
   },
   {
-    "slug": "greenhouse-8461239002",
+    "dedupeKey": "greenhouse:8461239002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Sr. Forward Deployed Engineer - Communications, Media, Entertainment & Games",
@@ -4155,7 +4155,7 @@
     "posted": "2026-06-27T00:17:31.000Z"
   },
   {
-    "slug": "greenhouse-8461243002",
+    "dedupeKey": "greenhouse:8461243002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Sr. Forward Deployed Engineer - Communications, Media, Entertainment & Games",
@@ -4184,7 +4184,7 @@
     "posted": "2026-06-27T00:17:31.000Z"
   },
   {
-    "slug": "greenhouse-8461241002",
+    "dedupeKey": "greenhouse:8461241002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Sr. Forward Deployed Engineer - Communications, Media, Entertainment & Games",
@@ -4223,7 +4223,7 @@
     "posted": "2026-06-27T00:17:31.000Z"
   },
   {
-    "slug": "greenhouse-8341311002",
+    "dedupeKey": "greenhouse:8341311002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Sr. Forward Deployed Engineer - Communications, Media, Entertainment & Games",
@@ -4253,7 +4253,7 @@
     "posted": "2026-06-27T00:17:31.000Z"
   },
   {
-    "slug": "greenhouse-8494153002",
+    "dedupeKey": "greenhouse:8494153002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Sr. Forward Deployed Engineer - Communications, Media, Entertainment & Games",
@@ -4292,7 +4292,7 @@
     "posted": "2026-06-27T00:17:31.000Z"
   },
   {
-    "slug": "greenhouse-8461226002",
+    "dedupeKey": "greenhouse:8461226002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Sr. Forward Deployed Engineer - Communications, Media, Entertainment & Games",
@@ -4331,7 +4331,7 @@
     "posted": "2026-06-27T00:17:31.000Z"
   },
   {
-    "slug": "greenhouse-8461251002",
+    "dedupeKey": "greenhouse:8461251002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Sr. Forward Deployed Engineer - Communications, Media, Entertainment & Games",
@@ -4370,7 +4370,7 @@
     "posted": "2026-06-27T00:17:31.000Z"
   },
   {
-    "slug": "greenhouse-8461219002",
+    "dedupeKey": "greenhouse:8461219002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Sr. Forward Deployed Engineer - Communications, Media, Entertainment & Games",
@@ -4396,7 +4396,7 @@
     "posted": "2026-06-27T00:17:31.000Z"
   },
   {
-    "slug": "greenhouse-8461258002",
+    "dedupeKey": "greenhouse:8461258002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Sr. Forward Deployed Engineer - Communications, Media, Entertainment & Games",
@@ -4435,7 +4435,7 @@
     "posted": "2026-06-27T00:17:31.000Z"
   },
   {
-    "slug": "greenhouse-8461220002",
+    "dedupeKey": "greenhouse:8461220002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Sr. Forward Deployed Engineer - Communications, Media, Entertainment & Games",
@@ -4474,7 +4474,7 @@
     "posted": "2026-06-27T00:17:31.000Z"
   },
   {
-    "slug": "greenhouse-8461193002",
+    "dedupeKey": "greenhouse:8461193002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Sr. Forward Deployed Engineer - Communications, Media, Entertainment & Games",
@@ -4503,7 +4503,7 @@
     "posted": "2026-06-27T00:17:31.000Z"
   },
   {
-    "slug": "greenhouse-8461163002",
+    "dedupeKey": "greenhouse:8461163002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Sr. Forward Deployed Engineer- Communications, Media, Entertainment & Games",
@@ -4530,7 +4530,7 @@
     "posted": "2026-06-27T00:17:31.000Z"
   },
   {
-    "slug": "greenhouse-8461222002",
+    "dedupeKey": "greenhouse:8461222002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Sr. Forward Deployed Engineer-Communications, Media, Entertainment & Games",
@@ -4558,7 +4558,7 @@
     "posted": "2026-06-27T00:17:31.000Z"
   },
   {
-    "slug": "greenhouse-8494155002",
+    "dedupeKey": "greenhouse:8494155002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Sr. Forward Deployed Engineer (FDE) - Manufacturing",
@@ -4586,7 +4586,7 @@
     "posted": "2026-06-27T00:17:31.000Z"
   },
   {
-    "slug": "greenhouse-8494156002",
+    "dedupeKey": "greenhouse:8494156002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Sr. Forward Deployed Engineer (FDE) - Manufacturing",
@@ -4614,7 +4614,7 @@
     "posted": "2026-06-27T00:17:31.000Z"
   },
   {
-    "slug": "greenhouse-8341313002",
+    "dedupeKey": "greenhouse:8341313002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Sr. Forward Deployed Engineer (FDE) - Manufacturing",
@@ -4645,7 +4645,7 @@
     "posted": "2026-06-27T00:17:31.000Z"
   },
   {
-    "slug": "greenhouse-8494154002",
+    "dedupeKey": "greenhouse:8494154002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Sr. Forward Deployed Engineer (FDE)- Manufacturing",
@@ -4673,7 +4673,7 @@
     "posted": "2026-06-27T00:17:31.000Z"
   },
   {
-    "slug": "greenhouse-8105504002",
+    "dedupeKey": "greenhouse:8105504002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Sr. Delivery Solutions Architect",
@@ -4700,7 +4700,7 @@
     "posted": "2026-06-27T00:17:30.000Z"
   },
   {
-    "slug": "greenhouse-8114836002",
+    "dedupeKey": "greenhouse:8114836002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Staff Forward Deployment Engineer",
@@ -4727,7 +4727,7 @@
     "posted": "2026-06-27T00:17:30.000Z"
   },
   {
-    "slug": "greenhouse-8099751002",
+    "dedupeKey": "greenhouse:8099751002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "AI Engineer - FDE (Forward Deployed Engineer)",
@@ -4758,7 +4758,7 @@
     "posted": "2026-06-27T00:17:28.000Z"
   },
   {
-    "slug": "greenhouse-7642125002",
+    "dedupeKey": "greenhouse:7642125002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Lead Solutions Architect  - Strategic Customers",
@@ -4787,7 +4787,7 @@
     "posted": "2026-06-27T00:17:28.000Z"
   },
   {
-    "slug": "greenhouse-8589169002",
+    "dedupeKey": "greenhouse:8589169002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Staff Technical Solution Engineering",
@@ -4822,7 +4822,7 @@
     "posted": "2026-06-27T00:17:25.000Z"
   },
   {
-    "slug": "greenhouse-8000359",
+    "dedupeKey": "greenhouse:8000359",
     "company": "Stripe",
     "companyDomain": "stripe.com",
     "role": "Integration Engineer, Professional Services (Spanish fluency)",
@@ -4844,7 +4844,7 @@
     "posted": "2026-06-26T21:05:47.000Z"
   },
   {
-    "slug": "greenhouse-7992740",
+    "dedupeKey": "greenhouse:7992740",
     "company": "Stripe",
     "companyDomain": "stripe.com",
     "role": "Integration Engineer, Professional Services (French fluency)",
@@ -4868,7 +4868,7 @@
     "posted": "2026-06-26T21:05:46.000Z"
   },
   {
-    "slug": "greenhouse-7947546",
+    "dedupeKey": "greenhouse:7947546",
     "company": "Stripe",
     "companyDomain": "stripe.com",
     "role": "Engineering Manager, Forward Deployed (Privy)",
@@ -4892,7 +4892,7 @@
     "posted": "2026-06-26T21:05:43.000Z"
   },
   {
-    "slug": "greenhouse-8009604",
+    "dedupeKey": "greenhouse:8009604",
     "company": "Stripe",
     "companyDomain": "stripe.com",
     "role": "Forward Deployed Integration Engineer, Professional Services",
@@ -4917,7 +4917,7 @@
     "posted": "2026-06-26T21:05:39.000Z"
   },
   {
-    "slug": "greenhouse-8023134",
+    "dedupeKey": "greenhouse:8023134",
     "company": "Stripe",
     "companyDomain": "stripe.com",
     "role": "Integration Engineer (Client facing), Professional Services",
@@ -4944,7 +4944,7 @@
     "posted": "2026-06-26T21:05:39.000Z"
   },
   {
-    "slug": "greenhouse-8023136",
+    "dedupeKey": "greenhouse:8023136",
     "company": "Stripe",
     "companyDomain": "stripe.com",
     "role": "Integration Engineer (Client facing), Professional Services",
@@ -4971,7 +4971,7 @@
     "posted": "2026-06-26T21:05:39.000Z"
   },
   {
-    "slug": "greenhouse-7896525",
+    "dedupeKey": "greenhouse:7896525",
     "company": "Stripe",
     "companyDomain": "stripe.com",
     "role": "Integration Engineer (Client facing), Professional Services ",
@@ -4997,7 +4997,7 @@
     "posted": "2026-06-26T21:05:39.000Z"
   },
   {
-    "slug": "greenhouse-7896519",
+    "dedupeKey": "greenhouse:7896519",
     "company": "Stripe",
     "companyDomain": "stripe.com",
     "role": "Integration Engineer (Global) ",
@@ -5019,7 +5019,7 @@
     "posted": "2026-06-26T21:05:39.000Z"
   },
   {
-    "slug": "greenhouse-7819426",
+    "dedupeKey": "greenhouse:7819426",
     "company": "Stripe",
     "companyDomain": "stripe.com",
     "role": "Integration Engineer (Chicago) ",
@@ -5048,7 +5048,7 @@
     "posted": "2026-06-26T21:05:37.000Z"
   },
   {
-    "slug": "greenhouse-7747640",
+    "dedupeKey": "greenhouse:7747640",
     "company": "Stripe",
     "companyDomain": "stripe.com",
     "role": "Forward Deployed AI Accelerator, Marketing",
@@ -5073,7 +5073,7 @@
     "posted": "2026-06-26T21:05:35.000Z"
   },
   {
-    "slug": "greenhouse-7747638",
+    "dedupeKey": "greenhouse:7747638",
     "company": "Stripe",
     "companyDomain": "stripe.com",
     "role": "Forward Deployed AI Accelerator, Marketing",
@@ -5098,7 +5098,7 @@
     "posted": "2026-06-26T21:05:35.000Z"
   },
   {
-    "slug": "greenhouse-7744344",
+    "dedupeKey": "greenhouse:7744344",
     "company": "Stripe",
     "companyDomain": "stripe.com",
     "role": "Implementation Consultant",
@@ -5119,7 +5119,7 @@
     "posted": "2026-06-26T21:05:34.000Z"
   },
   {
-    "slug": "greenhouse-7249744",
+    "dedupeKey": "greenhouse:7249744",
     "company": "Stripe",
     "companyDomain": "stripe.com",
     "role": "Backend Engineer, Forward Deployed Engineering",
@@ -5152,7 +5152,7 @@
     "posted": "2026-06-26T21:05:26.000Z"
   },
   {
-    "slug": "greenhouse-7230452",
+    "dedupeKey": "greenhouse:7230452",
     "company": "Stripe",
     "companyDomain": "stripe.com",
     "role": "Forward Deployed Engineer, Privy",
@@ -5177,7 +5177,7 @@
     "posted": "2026-06-26T21:05:26.000Z"
   },
   {
-    "slug": "greenhouse-4903015101",
+    "dedupeKey": "greenhouse:4903015101",
     "company": "Cognite",
     "companyDomain": "cognite.com",
     "role": "Senior Field Engineer (Pre-Sales/Forward Deployed Engineer)",
@@ -5193,7 +5193,7 @@
     "posted": "2026-06-26T17:19:21.000Z"
   },
   {
-    "slug": "greenhouse-4910036101",
+    "dedupeKey": "greenhouse:4910036101",
     "company": "Kaluza",
     "companyDomain": "kaluza.com",
     "role": "Client Integration Architect",
@@ -5220,7 +5220,7 @@
     "posted": "2026-06-26T16:52:29.000Z"
   },
   {
-    "slug": "workday-r28192",
+    "dedupeKey": "workday:R28192",
     "company": "CrowdStrike",
     "companyDomain": "crowdstrike.com",
     "role": "Sr. Consultant - Cloud Red Team Blue Team (Remote)",
@@ -5251,7 +5251,7 @@
     "posted": "2026-06-26T00:00:00.000Z"
   },
   {
-    "slug": "workday-r28631",
+    "dedupeKey": "workday:R28631",
     "company": "CrowdStrike",
     "companyDomain": "crowdstrike.com",
     "role": "Incident Response Principal Consultant (Remote CAN)",
@@ -5278,7 +5278,7 @@
     "posted": "2026-06-26T00:00:00.000Z"
   },
   {
-    "slug": "workday-r29154",
+    "dedupeKey": "workday:R29154",
     "company": "CrowdStrike",
     "companyDomain": "crowdstrike.com",
     "role": "Platform Professional Services Sr. Consultant - NG SIEM (Remote, MEX)",
@@ -5315,7 +5315,7 @@
     "posted": "2026-06-26T00:00:00.000Z"
   },
   {
-    "slug": "workday-r29131",
+    "dedupeKey": "workday:R29131",
     "company": "CrowdStrike",
     "companyDomain": "crowdstrike.com",
     "role": "AI Security Solutions Consultant (Remote, MEX)",
@@ -5348,7 +5348,7 @@
     "posted": "2026-06-26T00:00:00.000Z"
   },
   {
-    "slug": "workday-r29141",
+    "dedupeKey": "workday:R29141",
     "company": "CrowdStrike",
     "companyDomain": "crowdstrike.com",
     "role": "Platform Professional Services, Consultant (Remote, GBR)",
@@ -5381,7 +5381,7 @@
     "posted": "2026-06-26T00:00:00.000Z"
   },
   {
-    "slug": "workday-jr0285169",
+    "dedupeKey": "workday:JR0285169",
     "company": "Intel",
     "companyDomain": "intel.com",
     "role": "Graduate Talent (Solution Enabling Engineer)",
@@ -5403,7 +5403,7 @@
     "posted": "2026-06-26T00:00:00.000Z"
   },
   {
-    "slug": "workday-jr4861",
+    "dedupeKey": "workday:JR4861",
     "company": "wellsky",
     "companyDomain": "wellsky.com",
     "role": "Sr. Software Engineer (Forward Deployed Engineer)",
@@ -5426,7 +5426,7 @@
     "posted": "2026-06-26T00:00:00.000Z"
   },
   {
-    "slug": "workday-jr-0107750",
+    "dedupeKey": "workday:JR-0107750",
     "company": "Workday",
     "companyDomain": "workday.com",
     "role": "Senior Engagement Manager, AI Solutions Delivery",
@@ -5464,7 +5464,7 @@
     "posted": "2026-06-26T00:00:00.000Z"
   },
   {
-    "slug": "workday-jr349478",
+    "dedupeKey": "workday:JR349478",
     "company": "Salesforce",
     "companyDomain": "salesforce.com",
     "role": "Portfolio Leader (Manager/Sr. Manager/Director)",
@@ -5490,7 +5490,7 @@
     "posted": "2026-06-26T00:00:00.000Z"
   },
   {
-    "slug": "workday-jr349467",
+    "dedupeKey": "workday:JR349467",
     "company": "Salesforce",
     "companyDomain": "salesforce.com",
     "role": "Deployment Strategist (All Levels)",
@@ -5516,7 +5516,7 @@
     "posted": "2026-06-26T00:00:00.000Z"
   },
   {
-    "slug": "workday-jr349466",
+    "dedupeKey": "workday:JR349466",
     "company": "Salesforce",
     "companyDomain": "salesforce.com",
     "role": "Forward Deployed Engineer (All Levels)",
@@ -5546,7 +5546,7 @@
     "posted": "2026-06-26T00:00:00.000Z"
   },
   {
-    "slug": "workday-jr349383",
+    "dedupeKey": "workday:JR349383",
     "company": "Salesforce",
     "companyDomain": "salesforce.com",
     "role": "Forward Deployed Engineer (Technical Builder)",
@@ -5576,7 +5576,7 @@
     "posted": "2026-06-26T00:00:00.000Z"
   },
   {
-    "slug": "workday-jr349389",
+    "dedupeKey": "workday:JR349389",
     "company": "Salesforce",
     "companyDomain": "salesforce.com",
     "role": "Senior Forward Deployed Engineer (Technical Builder)",
@@ -5615,7 +5615,7 @@
     "posted": "2026-06-26T00:00:00.000Z"
   },
   {
-    "slug": "workday-jr349385",
+    "dedupeKey": "workday:JR349385",
     "company": "Salesforce",
     "companyDomain": "salesforce.com",
     "role": "Senior Forward Deployed Engineer (Technical Builder)",
@@ -5652,7 +5652,7 @@
     "posted": "2026-06-26T00:00:00.000Z"
   },
   {
-    "slug": "workday-jr344827",
+    "dedupeKey": "workday:JR344827",
     "company": "Salesforce",
     "companyDomain": "salesforce.com",
     "role": "Director, Product Management - Agentforce Contact Center",
@@ -5676,7 +5676,7 @@
     "posted": "2026-06-26T00:00:00.000Z"
   },
   {
-    "slug": "workday-jr2007409",
+    "dedupeKey": "workday:JR2007409",
     "company": "2100 NVIDIA USA",
     "companyDomain": "nvidia.com",
     "role": "Senior Solutions Architect, AI Infrastructure",
@@ -5707,7 +5707,7 @@
     "posted": "2026-06-26T00:00:00.000Z"
   },
   {
-    "slug": "workday-jr2020230",
+    "dedupeKey": "workday:JR2020230",
     "company": "2100 NVIDIA USA",
     "companyDomain": "nvidia.com",
     "role": "Senior AI Solutions Architect - Semiconductors",
@@ -5737,7 +5737,7 @@
     "posted": "2026-06-26T00:00:00.000Z"
   },
   {
-    "slug": "workday-jr2019684",
+    "dedupeKey": "workday:JR2019684",
     "company": "2100 NVIDIA USA",
     "companyDomain": "nvidia.com",
     "role": "NCX Engineer, AI Accelerator",
@@ -5775,7 +5775,7 @@
     "posted": "2026-06-26T00:00:00.000Z"
   },
   {
-    "slug": "lever-e6accd7d-27d5-45f0-9f35-3454064374af",
+    "dedupeKey": "lever:e6accd7d-27d5-45f0-9f35-3454064374af",
     "company": "Mistral AI",
     "companyDomain": "mistral.ai",
     "role": "Applied AI, Machine Learning Engineer",
@@ -5802,7 +5802,7 @@
     "posted": "2026-06-25T22:52:30.321Z"
   },
   {
-    "slug": "smartrecruiters-744000134343169",
+    "dedupeKey": "smartrecruiters:744000134343169",
     "company": "Intuitive",
     "companyDomain": "intuitive.com",
     "role": "SFDC - Field Service Solution Architects",
@@ -5829,7 +5829,7 @@
     "posted": "2026-06-25T20:59:12.675Z"
   },
   {
-    "slug": "lever-b81be534-e1d6-4946-8121-1e1360d4d030",
+    "dedupeKey": "lever:b81be534-e1d6-4946-8121-1e1360d4d030",
     "company": "Palantir",
     "companyDomain": "palantir.com",
     "role": "Deployment Strategist",
@@ -5854,7 +5854,7 @@
     "posted": "2026-06-25T11:39:38.255Z"
   },
   {
-    "slug": "workday-r29130",
+    "dedupeKey": "workday:R29130",
     "company": "CrowdStrike",
     "companyDomain": "crowdstrike.com",
     "role": "AI Security Solutions Consultant (Remote)",
@@ -5880,7 +5880,7 @@
     "posted": "2026-06-25T00:00:00.000Z"
   },
   {
-    "slug": "jazzhr-as3ar39shh",
+    "dedupeKey": "jazzhr:aS3aR39Shh",
     "company": "Advatix, Inc.",
     "companyDomain": "advatix.com",
     "role": "Founding Forward-Deployed Engineer",
@@ -5904,7 +5904,7 @@
     "posted": "2026-06-25T00:00:00.000Z"
   },
   {
-    "slug": "workday-r6496",
+    "dedupeKey": "workday:R6496",
     "company": "Mimecast",
     "companyDomain": "mimecast.com",
     "role": "Senior Architect - Email & Collaboration Security",
@@ -5944,7 +5944,7 @@
     "posted": "2026-06-25T00:00:00.000Z"
   },
   {
-    "slug": "workday-jr-019275",
+    "dedupeKey": "workday:JR-019275",
     "company": "Palo Alto Networks",
     "companyDomain": "paloaltonetworks.com",
     "role": "AI Strategic Partnerships Solution Architect",
@@ -5975,7 +5975,7 @@
     "posted": "2026-06-25T00:00:00.000Z"
   },
   {
-    "slug": "ashby-9cf2a997-aa7b-4107-ac92-dfed82c6e642",
+    "dedupeKey": "ashby:9cf2a997-aa7b-4107-ac92-dfed82c6e642",
     "company": "Airbyte",
     "companyDomain": "airbyte.com",
     "role": "Solutions Architect",
@@ -6008,7 +6008,7 @@
     "posted": "2026-06-24T22:34:38.507Z"
   },
   {
-    "slug": "lever-75cc1c09-8ebd-44c8-b3bc-d122cd1fecb3",
+    "dedupeKey": "lever:75cc1c09-8ebd-44c8-b3bc-d122cd1fecb3",
     "company": "Palantir",
     "companyDomain": "palantir.com",
     "role": "Year at Palantir - Forward Deployed Software Engineer, Internship - Commercial",
@@ -6034,7 +6034,7 @@
     "posted": "2026-06-24T19:13:14.474Z"
   },
   {
-    "slug": "greenhouse-4709093005",
+    "dedupeKey": "greenhouse:4709093005",
     "company": "Solo.io",
     "companyDomain": "solo.io",
     "role": "Principal Solutions Architect - AI Onboarding (EMEA)",
@@ -6062,7 +6062,7 @@
     "posted": "2026-06-24T16:06:14.000Z"
   },
   {
-    "slug": "greenhouse-5165216007",
+    "dedupeKey": "greenhouse:5165216007",
     "company": "Zafin",
     "companyDomain": "zafin.com",
     "role": "Technical Consultant I",
@@ -6094,35 +6094,7 @@
     "posted": "2026-06-24T14:31:33.000Z"
   },
   {
-    "slug": "smartrecruiters-744000133944251",
-    "company": "CS",
-    "companyDomain": "csgroup.eu",
-    "role": "Senior Consultant Cloud Microsoft Azure (m/w/d)",
-    "applyUrl": "",
-    "location": "bundesweit, , Germany",
-    "remote": "hybrid",
-    "level": "senior",
-    "skills": [
-      "microsoft azure",
-      "cloud architecture",
-      "generative ai",
-      "azure ai services",
-      "devops",
-      "devsecops",
-      "infrastructure as code",
-      "ci/cd",
-      "containerization",
-      "microservices",
-      "cloud governance",
-      "security",
-      "automation",
-      "multi-cloud",
-      "sovereignty cloud"
-    ],
-    "posted": "2026-06-24T13:01:02.911Z"
-  },
-  {
-    "slug": "lever-56c2054d-f930-40d7-a3db-5c0107d319a0",
+    "dedupeKey": "lever:56c2054d-f930-40d7-a3db-5c0107d319a0",
     "company": "Loft Orbital",
     "companyDomain": "loftorbital.com",
     "role": "Ground Software Solutions Engineer",
@@ -6149,40 +6121,7 @@
     "posted": "2026-06-24T12:50:57.468Z"
   },
   {
-    "slug": "smartrecruiters-744000133903929",
-    "company": "CS",
-    "companyDomain": "csgroup.eu",
-    "role": "Architecte Solution - EAM / GMAO - Solutions & Expertises - Lyon ",
-    "applyUrl": "",
-    "location": "Limonest, Auvergne-Rhône-Alpes, France",
-    "remote": "hybrid",
-    "level": "senior",
-    "skills": [
-      "EAM",
-      "GMAO",
-      "IBM Maximo",
-      "Infor EAM",
-      "Carl Source",
-      "ERP integration",
-      "IoT",
-      "predictive AI",
-      "cloud",
-      "Azure",
-      "AWS",
-      "Agile",
-      "Scrum",
-      "ITIL",
-      "asset management",
-      "maintenance strategy",
-      "process modeling",
-      "change management",
-      "client service",
-      "leadership"
-    ],
-    "posted": "2026-06-24T09:48:27.322Z"
-  },
-  {
-    "slug": "greenhouse-4906726101",
+    "dedupeKey": "greenhouse:4906726101",
     "company": "Helsing",
     "companyDomain": "helsing.ai",
     "role": "Lead Field Engineer",
@@ -6204,7 +6143,7 @@
     "posted": "2026-06-24T09:38:22.000Z"
   },
   {
-    "slug": "workday-r26-681",
+    "dedupeKey": "workday:R26_681",
     "company": "Arctic Wolf Networks",
     "companyDomain": "arcticwolf.com",
     "role": "Berater für Cybersecurity (m/w/d)",
@@ -6237,7 +6176,7 @@
     "posted": "2026-06-24T00:00:00.000Z"
   },
   {
-    "slug": "workday-r03870",
+    "dedupeKey": "workday:R03870",
     "company": "Cohesity",
     "companyDomain": "cohesity.com",
     "role": "Solutions Architect",
@@ -6274,7 +6213,7 @@
     "posted": "2026-06-24T00:00:00.000Z"
   },
   {
-    "slug": "jazzhr-tybfyfvmhl",
+    "dedupeKey": "jazzhr:tyBFyfvmHl",
     "company": "Cytovale",
     "companyDomain": "cytovale.com",
     "role": "Field Application Scientist",
@@ -6296,7 +6235,7 @@
     "posted": "2026-06-24T00:00:00.000Z"
   },
   {
-    "slug": "workday-jr-0107977",
+    "dedupeKey": "workday:JR-0107977",
     "company": "Workday",
     "companyDomain": "workday.com",
     "role": "Senior Technical Delivery Consultant - AI Practice",
@@ -6323,7 +6262,7 @@
     "posted": "2026-06-24T00:00:00.000Z"
   },
   {
-    "slug": "workday-jr347822",
+    "dedupeKey": "workday:JR347822",
     "company": "Salesforce",
     "companyDomain": "salesforce.com",
     "role": "Senior Technical Architect",
@@ -6353,7 +6292,7 @@
     "posted": "2026-06-24T00:00:00.000Z"
   },
   {
-    "slug": "workday-jr339638",
+    "dedupeKey": "workday:JR339638",
     "company": "Salesforce",
     "companyDomain": "salesforce.com",
     "role": "Analytics Forward Deployed Engineer Principal",
@@ -6380,7 +6319,7 @@
     "posted": "2026-06-24T00:00:00.000Z"
   },
   {
-    "slug": "workday-jr342608",
+    "dedupeKey": "workday:JR342608",
     "company": "Salesforce",
     "companyDomain": "salesforce.com",
     "role": "Senior Technical Architect  - Public.Sector",
@@ -6413,7 +6352,7 @@
     "posted": "2026-06-24T00:00:00.000Z"
   },
   {
-    "slug": "workday-r2024801",
+    "dedupeKey": "workday:R2024801",
     "company": "Intapp",
     "companyDomain": "intapp.com",
     "role": "Senior Technical Consultant",
@@ -6443,7 +6382,7 @@
     "posted": "2026-06-24T00:00:00.000Z"
   },
   {
-    "slug": "workday-jr2018905",
+    "dedupeKey": "workday:JR2018905",
     "company": "2100 NVIDIA USA",
     "companyDomain": "nvidia.com",
     "role": "Manager, Solutions Architecture - Retail",
@@ -6479,7 +6418,7 @@
     "posted": "2026-06-24T00:00:00.000Z"
   },
   {
-    "slug": "workday-jr2019849",
+    "dedupeKey": "workday:JR2019849",
     "company": "2100 NVIDIA USA",
     "companyDomain": "nvidia.com",
     "role": "Senior Solutions Architect, AI - Accelerated Physics",
@@ -6515,7 +6454,7 @@
     "posted": "2026-06-24T00:00:00.000Z"
   },
   {
-    "slug": "workday-jr2019998",
+    "dedupeKey": "workday:JR2019998",
     "company": "2100 NVIDIA USA",
     "companyDomain": "nvidia.com",
     "role": "Senior Solutions Architect, AI Factory Observability and Visualization - NVIS",
@@ -6548,7 +6487,7 @@
     "posted": "2026-06-24T00:00:00.000Z"
   },
   {
-    "slug": "workday-jr2019852",
+    "dedupeKey": "workday:JR2019852",
     "company": "2100 NVIDIA USA",
     "companyDomain": "nvidia.com",
     "role": "Senior Solutions Architect, Generative AI Research",
@@ -6585,7 +6524,7 @@
     "posted": "2026-06-24T00:00:00.000Z"
   },
   {
-    "slug": "workday-r6285",
+    "dedupeKey": "workday:R6285",
     "company": "nCino",
     "companyDomain": "ncino.com",
     "role": "Solution Architect-2",
@@ -6611,40 +6550,7 @@
     "posted": "2026-06-24T00:00:00.000Z"
   },
   {
-    "slug": "smartrecruiters-744000133657678",
-    "company": "CS",
-    "companyDomain": "csgroup.eu",
-    "role": "Architecte IA - Services Financiers - Ile-De-France",
-    "applyUrl": "",
-    "location": "Paris, IDF, France",
-    "remote": "hybrid",
-    "level": "senior",
-    "skills": [
-      "llm",
-      "genai",
-      "rag",
-      "agents",
-      "orchestration",
-      "vector_databases",
-      "mlops",
-      "llmops",
-      "cloud_architecture",
-      "api_integration",
-      "prompt_engineering",
-      "fine_tuning",
-      "azure",
-      "aws",
-      "gcp",
-      "langchain",
-      "llamaindex",
-      "mistral_ai",
-      "openai",
-      "anthropic"
-    ],
-    "posted": "2026-06-23T16:50:19.595Z"
-  },
-  {
-    "slug": "greenhouse-6098737004",
+    "dedupeKey": "greenhouse:6098737004",
     "company": "Grafana Labs",
     "companyDomain": "grafana.com",
     "role": "Senior Field Engineer | Netherlands | Remote",
@@ -6668,7 +6574,7 @@
     "posted": "2026-06-23T16:39:16.000Z"
   },
   {
-    "slug": "greenhouse-8452924002",
+    "dedupeKey": "greenhouse:8452924002",
     "company": "Wayve",
     "companyDomain": "wayve.ai",
     "role": "Field Engineer Lead",
@@ -6697,7 +6603,7 @@
     "posted": "2026-06-23T09:39:40.000Z"
   },
   {
-    "slug": "workday-r03872",
+    "dedupeKey": "workday:R03872",
     "company": "Cohesity",
     "companyDomain": "cohesity.com",
     "role": "Solutions Architect, Singapore",
@@ -6752,7 +6658,7 @@
     "posted": "2026-06-23T00:00:00.000Z"
   },
   {
-    "slug": "workday-113205-job",
+    "dedupeKey": "workday:113205-JOB",
     "company": "Sprinklr",
     "companyDomain": "sprinklr.com",
     "role": "Technical Platform Architect - CCaaS",
@@ -6789,7 +6695,7 @@
     "posted": "2026-06-23T00:00:00.000Z"
   },
   {
-    "slug": "workday-r66199",
+    "dedupeKey": "workday:R66199",
     "company": "Motorola Solutions",
     "companyDomain": "motorolasolutions.com",
     "role": "Sr Engineer Systems Design & Implementation ( Video)",
@@ -6827,7 +6733,7 @@
     "posted": "2026-06-23T00:00:00.000Z"
   },
   {
-    "slug": "workday-jr345876",
+    "dedupeKey": "workday:JR345876",
     "company": "Salesforce",
     "companyDomain": "salesforce.com",
     "role": "Technical Architect - Informatica MDM",
@@ -6860,7 +6766,7 @@
     "posted": "2026-06-23T00:00:00.000Z"
   },
   {
-    "slug": "workday-jr-017955",
+    "dedupeKey": "workday:JR-017955",
     "company": "Palo Alto Networks",
     "companyDomain": "paloaltonetworks.com",
     "role": "Principal NPI Solutions Architect",
@@ -6885,7 +6791,7 @@
     "posted": "2026-06-23T00:00:00.000Z"
   },
   {
-    "slug": "workday-jr2019459",
+    "dedupeKey": "workday:JR2019459",
     "company": "2100 NVIDIA USA",
     "companyDomain": "nvidia.com",
     "role": "Forward Deployed Architect",
@@ -6921,7 +6827,7 @@
     "posted": "2026-06-23T00:00:00.000Z"
   },
   {
-    "slug": "lever-b169954f-e057-43f9-980a-e90045de5ca0",
+    "dedupeKey": "lever:b169954f-e057-43f9-980a-e90045de5ca0",
     "company": "Beamy",
     "companyDomain": "beamy.xyz",
     "role": "Deployment Engineer",
@@ -6950,7 +6856,7 @@
     "posted": "2026-06-22T22:09:42.088Z"
   },
   {
-    "slug": "smartrecruiters-744000133459260",
+    "dedupeKey": "smartrecruiters:744000133459260",
     "company": "Intuitive",
     "companyDomain": "intuitive.com",
     "role": "Genesis Consultant",
@@ -6976,28 +6882,7 @@
     "posted": "2026-06-22T21:39:41.997Z"
   },
   {
-    "slug": "smartrecruiters-744000133391809",
-    "company": "CS",
-    "companyDomain": "csgroup.eu",
-    "role": "Lösningsarkitekt Salesforce Stockholm",
-    "applyUrl": "",
-    "location": "Stockholm, Stockholms län, Sweden",
-    "remote": "onsite",
-    "level": "senior",
-    "skills": [
-      "Salesforce",
-      "Salesforce Architecture",
-      "Solution Design",
-      "Business Process Optimization",
-      "System Integration",
-      "Customer Relationship Management (CRM)",
-      "Technical Consulting",
-      "Project Management"
-    ],
-    "posted": "2026-06-22T14:46:13.066Z"
-  },
-  {
-    "slug": "greenhouse-4904787101",
+    "dedupeKey": "greenhouse:4904787101",
     "company": "Cognite",
     "companyDomain": "cognite.com",
     "role": "Principal Field Engineer",
@@ -7013,7 +6898,7 @@
     "posted": "2026-06-22T10:18:43.000Z"
   },
   {
-    "slug": "workday-jr343141",
+    "dedupeKey": "workday:JR343141",
     "company": "Salesforce",
     "companyDomain": "salesforce.com",
     "role": "Program Architect",
@@ -7046,7 +6931,7 @@
     "posted": "2026-06-22T00:00:00.000Z"
   },
   {
-    "slug": "lever-8fa09624-2464-4e19-a56d-2c38323ce49d",
+    "dedupeKey": "lever:8fa09624-2464-4e19-a56d-2c38323ce49d",
     "company": "Netomi",
     "companyDomain": "netomi.com",
     "role": "Agentic AI Forward Deployment Engineering Lead",
@@ -7071,7 +6956,7 @@
     "posted": "2026-06-20T05:39:16.907Z"
   },
   {
-    "slug": "greenhouse-5169676007",
+    "dedupeKey": "greenhouse:5169676007",
     "company": "Defense Unicorns",
     "companyDomain": "defenseunicorns.com",
     "role": "FDE Data Engineer- Space",
@@ -7114,7 +6999,7 @@
     "posted": "2026-06-19T17:07:31.000Z"
   },
   {
-    "slug": "greenhouse-5169665007",
+    "dedupeKey": "greenhouse:5169665007",
     "company": "Defense Unicorns",
     "companyDomain": "defenseunicorns.com",
     "role": "Senior FDE Data Engineer",
@@ -7172,7 +7057,7 @@
     "posted": "2026-06-19T16:56:34.000Z"
   },
   {
-    "slug": "ashby-14bd571c-84eb-447f-9cb5-08e353017a2e",
+    "dedupeKey": "ashby:14bd571c-84eb-447f-9cb5-08e353017a2e",
     "company": "Astronomer",
     "companyDomain": "astronomer.io",
     "role": "Field Engineer, SWAT",
@@ -7198,7 +7083,7 @@
     "posted": "2026-06-19T16:04:14.678Z"
   },
   {
-    "slug": "lever-26b8b13d-344e-496e-bd75-843961b38b9f",
+    "dedupeKey": "lever:26b8b13d-344e-496e-bd75-843961b38b9f",
     "company": "Insider",
     "companyDomain": "useinsider.com",
     "role": "Solutions Architect - Colombia",
@@ -7230,7 +7115,7 @@
     "posted": "2026-06-19T15:29:46.965Z"
   },
   {
-    "slug": "ashby-b6fff8d2-0486-40e3-9fc2-60b07de28076",
+    "dedupeKey": "ashby:b6fff8d2-0486-40e3-9fc2-60b07de28076",
     "company": "Astronomer",
     "companyDomain": "astronomer.io",
     "role": "Field Engineer, SWAT",
@@ -7257,46 +7142,7 @@
     "posted": "2026-06-19T15:08:16.695Z"
   },
   {
-    "slug": "smartrecruiters-744000133057729",
-    "company": "CS",
-    "companyDomain": "csgroup.eu",
-    "role": "Solution Architect",
-    "applyUrl": "",
-    "location": "Katowice, , Poland",
-    "remote": "onsite",
-    "level": "senior",
-    "skills": [
-      "solution architecture",
-      "technical architecture",
-      "functional architecture",
-      "cloud architecture",
-      "azure",
-      "aws",
-      "gcp",
-      "enterprise integration",
-      "security standards",
-      "IAM",
-      "compliance",
-      "data classification",
-      "data architecture",
-      "data modeling",
-      "data quality",
-      "archimate",
-      "TOGAF",
-      "agile methodologies",
-      "scrum",
-      "SAFe",
-      "API design",
-      "multi-system integration",
-      "ITIL",
-      "business analysis",
-      "workshop facilitation",
-      "documentation"
-    ],
-    "posted": "2026-06-19T12:25:07.750Z"
-  },
-  {
-    "slug": "greenhouse-8002425",
+    "dedupeKey": "greenhouse:8002425",
     "company": "Adyen",
     "companyDomain": "adyen.com",
     "role": "Senior Forward Deployed Engineer",
@@ -7330,7 +7176,7 @@
     "posted": "2026-06-19T11:28:32.000Z"
   },
   {
-    "slug": "lever-ebbae799-78e9-4705-97bc-9f86d359f56f",
+    "dedupeKey": "lever:ebbae799-78e9-4705-97bc-9f86d359f56f",
     "company": "Mistral AI",
     "companyDomain": "mistral.ai",
     "role": "AI Deployment Strategist - Canada",
@@ -7353,7 +7199,7 @@
     "posted": "2026-06-19T10:29:45.029Z"
   },
   {
-    "slug": "greenhouse-4702890005",
+    "dedupeKey": "greenhouse:4702890005",
     "company": "Scale",
     "companyDomain": "scale.com",
     "role": "Director of Product Management, Forward Deployed & Strategy",
@@ -7369,31 +7215,7 @@
     "posted": "2026-06-19T08:50:34.000Z"
   },
   {
-    "slug": "smartrecruiters-744000133002142",
-    "company": "CS",
-    "companyDomain": "csgroup.eu",
-    "role": "Løsningsarkitekt",
-    "applyUrl": "",
-    "location": "Oslo, , Norway",
-    "remote": "onsite",
-    "level": "unknown",
-    "skills": [
-      "solution architecture",
-      "technical consulting",
-      "cloud platforms",
-      "integrations",
-      "modern applications",
-      "system development",
-      "reference architecture",
-      "AI in development",
-      "secure AI usage",
-      "customer relations",
-      "stakeholder management"
-    ],
-    "posted": "2026-06-19T07:10:09.978Z"
-  },
-  {
-    "slug": "workday-260394",
+    "dedupeKey": "workday:260394",
     "company": "Cloudera",
     "companyDomain": "cloudera.com",
     "role": "Senior Solutions Architect - AI",
@@ -7432,7 +7254,7 @@
     "posted": "2026-06-19T00:00:00.000Z"
   },
   {
-    "slug": "workday-jr335049",
+    "dedupeKey": "workday:JR335049",
     "company": "Salesforce",
     "companyDomain": "salesforce.com",
     "role": "Field Service AI Technical Architect",
@@ -7463,7 +7285,7 @@
     "posted": "2026-06-19T00:00:00.000Z"
   },
   {
-    "slug": "greenhouse-7392902",
+    "dedupeKey": "greenhouse:7392902",
     "company": "MongoDB",
     "companyDomain": "mongodb.com",
     "role": "Senior Software Engineer, Forward Deployed AI Engineer",
@@ -7487,7 +7309,7 @@
     "posted": "2026-06-18T19:34:16.000Z"
   },
   {
-    "slug": "greenhouse-7590735",
+    "dedupeKey": "greenhouse:7590735",
     "company": "MongoDB",
     "companyDomain": "mongodb.com",
     "role": "Senior Software Engineer, Forward Deployed AI Engineer",
@@ -7511,7 +7333,7 @@
     "posted": "2026-06-18T19:34:16.000Z"
   },
   {
-    "slug": "greenhouse-6095341004",
+    "dedupeKey": "greenhouse:6095341004",
     "company": "Grafana Labs",
     "companyDomain": "grafana.com",
     "role": "Senior Field Engineer | Germany | Remote",
@@ -7536,7 +7358,7 @@
     "posted": "2026-06-18T17:34:38.000Z"
   },
   {
-    "slug": "lever-7fadfe39-9cf3-4baf-99fd-0871ee0d209a",
+    "dedupeKey": "lever:7fadfe39-9cf3-4baf-99fd-0871ee0d209a",
     "company": "Outreach.io",
     "companyDomain": "outreach.io",
     "role": "Senior Technical Consultant",
@@ -7561,7 +7383,7 @@
     "posted": "2026-06-18T12:55:24.403Z"
   },
   {
-    "slug": "lever-c050b2d3-1c6b-4eea-86d1-ef505bd2b4cb",
+    "dedupeKey": "lever:c050b2d3-1c6b-4eea-86d1-ef505bd2b4cb",
     "company": "Outreach.io",
     "companyDomain": "outreach.io",
     "role": "Forward Deployed Engineer – AI Revenue Agents",
@@ -7586,7 +7408,7 @@
     "posted": "2026-06-18T10:54:17.309Z"
   },
   {
-    "slug": "workday-r29142",
+    "dedupeKey": "workday:R29142",
     "company": "CrowdStrike",
     "companyDomain": "crowdstrike.com",
     "role": "Platform Professional Services Sr. Consultant (Remote, ESP)",
@@ -7618,7 +7440,7 @@
     "posted": "2026-06-18T00:00:00.000Z"
   },
   {
-    "slug": "workday-jr331314",
+    "dedupeKey": "workday:JR331314",
     "company": "Salesforce",
     "companyDomain": "salesforce.com",
     "role": "Solution Architect / Senior Solution Architect - Missionforce",
@@ -7646,7 +7468,7 @@
     "posted": "2026-06-18T00:00:00.000Z"
   },
   {
-    "slug": "workday-jr339744",
+    "dedupeKey": "workday:JR339744",
     "company": "Salesforce",
     "companyDomain": "salesforce.com",
     "role": "Forward Deployed Engineer - Agentforce for Supply Chain",
@@ -7678,7 +7500,7 @@
     "posted": "2026-06-18T00:00:00.000Z"
   },
   {
-    "slug": "workday-jr347031",
+    "dedupeKey": "workday:JR347031",
     "company": "Salesforce",
     "companyDomain": "salesforce.com",
     "role": "Salesforce Senior Technical Architect (CTA Aspirants)",
@@ -7710,7 +7532,7 @@
     "posted": "2026-06-18T00:00:00.000Z"
   },
   {
-    "slug": "workday-jr326554",
+    "dedupeKey": "workday:JR326554",
     "company": "Salesforce",
     "companyDomain": "salesforce.com",
     "role": "Salesforce Technical Architect",
@@ -7737,7 +7559,7 @@
     "posted": "2026-06-18T00:00:00.000Z"
   },
   {
-    "slug": "workday-jr342766",
+    "dedupeKey": "workday:JR342766",
     "company": "Salesforce",
     "companyDomain": "salesforce.com",
     "role": "Salesforce Technical Architect",
@@ -7769,7 +7591,7 @@
     "posted": "2026-06-18T00:00:00.000Z"
   },
   {
-    "slug": "lever-8e13a88a-0d4e-487a-bc45-e2f261c6545e",
+    "dedupeKey": "lever:8e13a88a-0d4e-487a-bc45-e2f261c6545e",
     "company": "Shakudo",
     "companyDomain": "shakudo.io",
     "role": "Senior DevOps Engineer — Customer Deployments & Infrastructure",
@@ -7800,7 +7622,7 @@
     "posted": "2026-06-17T14:35:52.435Z"
   },
   {
-    "slug": "teamtailor-7931550",
+    "dedupeKey": "teamtailor:7931550",
     "company": "CarCutter",
     "companyDomain": "diffuse.ly",
     "role": "Client Solution & Integrations Lead",
@@ -7823,7 +7645,7 @@
     "posted": "2026-06-17T13:04:42.000Z"
   },
   {
-    "slug": "lever-97e938fd-2223-427a-a51d-ee442fd6d721",
+    "dedupeKey": "lever:97e938fd-2223-427a-a51d-ee442fd6d721",
     "company": "Theodo FinTech",
     "companyDomain": "sipios.com",
     "role": "Health Solution Architect - CDI Paris - Theodo HealthTech",
@@ -7851,7 +7673,7 @@
     "posted": "2026-06-17T09:19:25.785Z"
   },
   {
-    "slug": "greenhouse-7724801",
+    "dedupeKey": "greenhouse:7724801",
     "company": "Waymo",
     "companyDomain": "waymo.com",
     "role": "Field Safety Engineer, Japan / フィールド・セーフティ・エンジニア（日本）",
@@ -7875,7 +7697,7 @@
     "posted": "2026-06-17T03:09:54.000Z"
   },
   {
-    "slug": "jazzhr-jatpqcb6av",
+    "dedupeKey": "jazzhr:JATpqCB6av",
     "company": "Advatix, Inc.",
     "companyDomain": "advatix.com",
     "role": "AI and Solutions Development Analyst",
@@ -7901,7 +7723,7 @@
     "posted": "2026-06-17T00:00:00.000Z"
   },
   {
-    "slug": "workday-r19264",
+    "dedupeKey": "workday:R19264",
     "company": "Zoom",
     "companyDomain": "zoom.com",
     "role": "Forward Deployed Engineer (Japanese speaker)",
@@ -7927,7 +7749,7 @@
     "posted": "2026-06-17T00:00:00.000Z"
   },
   {
-    "slug": "workday-jr346326",
+    "dedupeKey": "workday:JR346326",
     "company": "Salesforce",
     "companyDomain": "salesforce.com",
     "role": "Salesforce Marketing Cloud & Loyalty Management Technical Architect",
@@ -7955,7 +7777,7 @@
     "posted": "2026-06-17T00:00:00.000Z"
   },
   {
-    "slug": "workday-r36229",
+    "dedupeKey": "workday:R36229",
     "company": "Datasite",
     "companyDomain": "datasite.com",
     "role": "Forward Deployed Engineer - Blueflame AI",
@@ -7981,7 +7803,7 @@
     "posted": "2026-06-17T00:00:00.000Z"
   },
   {
-    "slug": "workday-jr344226",
+    "dedupeKey": "workday:JR344226",
     "company": "Salesforce",
     "companyDomain": "salesforce.com",
     "role": "Salesforce Field Service Architect",
@@ -8007,7 +7829,7 @@
     "posted": "2026-06-17T00:00:00.000Z"
   },
   {
-    "slug": "workday-jr346840",
+    "dedupeKey": "workday:JR346840",
     "company": "Salesforce",
     "companyDomain": "salesforce.com",
     "role": "Migration Delivery Senior Lead -  Marketing Cloud/Revenue Cloud/Tableau",
@@ -8035,7 +7857,7 @@
     "posted": "2026-06-17T00:00:00.000Z"
   },
   {
-    "slug": "workday-jr2018374",
+    "dedupeKey": "workday:JR2018374",
     "company": "2100 NVIDIA USA",
     "companyDomain": "nvidia.com",
     "role": "Solutions Architect - AI Technology Center for Physical AI",
@@ -8074,7 +7896,7 @@
     "posted": "2026-06-17T00:00:00.000Z"
   },
   {
-    "slug": "workday-r1531555",
+    "dedupeKey": "workday:R1531555",
     "company": "IQVIA",
     "companyDomain": "iqvia.com",
     "role": "Associate Principal – AI Consulting, Life Sciences",
@@ -8104,7 +7926,7 @@
     "posted": "2026-06-17T00:00:00.000Z"
   },
   {
-    "slug": "greenhouse-5166387007",
+    "dedupeKey": "greenhouse:5166387007",
     "company": "Chaos",
     "companyDomain": "chaosinc.com",
     "role": "Forward Deployed Engineer - Software",
@@ -8134,7 +7956,7 @@
     "posted": "2026-06-16T21:29:43.000Z"
   },
   {
-    "slug": "lever-548aa2ee-c711-4d58-9f3d-dc19868fd391",
+    "dedupeKey": "lever:548aa2ee-c711-4d58-9f3d-dc19868fd391",
     "company": "Shield AI",
     "companyDomain": "shield.ai",
     "role": "Staff Engineer, Software Autonomy Applications (R4962)",
@@ -8158,7 +7980,7 @@
     "posted": "2026-06-16T21:00:22.170Z"
   },
   {
-    "slug": "greenhouse-8499731002",
+    "dedupeKey": "greenhouse:8499731002",
     "company": "Wayve",
     "companyDomain": "wayve.ai",
     "role": "Field Engineer",
@@ -8186,7 +8008,7 @@
     "posted": "2026-06-16T20:56:12.000Z"
   },
   {
-    "slug": "lever-7cc0e741-8e36-4d49-8046-ba051a535705",
+    "dedupeKey": "lever:7cc0e741-8e36-4d49-8046-ba051a535705",
     "company": "Shield AI",
     "companyDomain": "shield.ai",
     "role": "Manager, Autonomy Applications Engineering (R5188)",
@@ -8214,7 +8036,7 @@
     "posted": "2026-06-16T20:55:44.614Z"
   },
   {
-    "slug": "rippling-ed86cc13-0d9c-4540-85d4-bedc9e47ce3a",
+    "dedupeKey": "rippling:ed86cc13-0d9c-4540-85d4-bedc9e47ce3a",
     "company": "Aalo Atomics",
     "companyDomain": "aalo.com",
     "role": "AI Solutions Engineer (Manufacturing)",
@@ -8252,7 +8074,7 @@
     "posted": "2026-06-16T14:31:02.250Z"
   },
   {
-    "slug": "workday-r078225",
+    "dedupeKey": "workday:R078225",
     "company": "RingCentral",
     "companyDomain": "ringcentral.com",
     "role": "AI Forward Deployed Engineer",
@@ -8278,7 +8100,7 @@
     "posted": "2026-06-16T00:00:00.000Z"
   },
   {
-    "slug": "workday-jr333171",
+    "dedupeKey": "workday:JR333171",
     "company": "Salesforce",
     "companyDomain": "salesforce.com",
     "role": "Missionforce - Associate Forward Deployed Engineer (FDE), Public Sector",
@@ -8308,7 +8130,7 @@
     "posted": "2026-06-16T00:00:00.000Z"
   },
   {
-    "slug": "workday-jr333178",
+    "dedupeKey": "workday:JR333178",
     "company": "Salesforce",
     "companyDomain": "salesforce.com",
     "role": "Missionforce - Senior/Lead Forward Deployed Engineer (FDE), Public Sector",
@@ -8343,7 +8165,7 @@
     "posted": "2026-06-16T00:00:00.000Z"
   },
   {
-    "slug": "workday-jr346200",
+    "dedupeKey": "workday:JR346200",
     "company": "Salesforce",
     "companyDomain": "salesforce.com",
     "role": "Senior Solution Consultant",
@@ -8376,7 +8198,7 @@
     "posted": "2026-06-16T00:00:00.000Z"
   },
   {
-    "slug": "workday-jr346204",
+    "dedupeKey": "workday:JR346204",
     "company": "Salesforce",
     "companyDomain": "salesforce.com",
     "role": "Senior Technical Consultant",
@@ -8407,7 +8229,7 @@
     "posted": "2026-06-16T00:00:00.000Z"
   },
   {
-    "slug": "workday-jr346190",
+    "dedupeKey": "workday:JR346190",
     "company": "Salesforce",
     "companyDomain": "salesforce.com",
     "role": "Technical Consultant",
@@ -8436,7 +8258,7 @@
     "posted": "2026-06-16T00:00:00.000Z"
   },
   {
-    "slug": "workday-jr346379",
+    "dedupeKey": "workday:JR346379",
     "company": "Salesforce",
     "companyDomain": "salesforce.com",
     "role": "Forward Deployed Engineer",
@@ -8465,7 +8287,7 @@
     "posted": "2026-06-16T00:00:00.000Z"
   },
   {
-    "slug": "workday-jr333498",
+    "dedupeKey": "workday:JR333498",
     "company": "Salesforce",
     "companyDomain": "salesforce.com",
     "role": "Salesforce 架構師 (Salesforce Architect)",
@@ -8498,7 +8320,7 @@
     "posted": "2026-06-16T00:00:00.000Z"
   },
   {
-    "slug": "workday-jr346342",
+    "dedupeKey": "workday:JR346342",
     "company": "Salesforce",
     "companyDomain": "salesforce.com",
     "role": "Mulesoft Senior Technical Consultant",
@@ -8530,7 +8352,7 @@
     "posted": "2026-06-16T00:00:00.000Z"
   },
   {
-    "slug": "smartrecruiters-744000132293526",
+    "dedupeKey": "smartrecruiters:744000132293526",
     "company": "Intuitive",
     "companyDomain": "intuitive.com",
     "role": "Sr. Solutions Architect (Talent Acquisition Platforms)",
@@ -8559,7 +8381,7 @@
     "posted": "2026-06-15T22:37:05.365Z"
   },
   {
-    "slug": "smartrecruiters-744000132259288",
+    "dedupeKey": "smartrecruiters:744000132259288",
     "company": "Intuitive",
     "companyDomain": "intuitive.com",
     "role": "Varicent Solution Architect",
@@ -8591,7 +8413,7 @@
     "posted": "2026-06-15T18:07:21.058Z"
   },
   {
-    "slug": "lever-5d8286d6-992a-404b-94af-99c173d40299",
+    "dedupeKey": "lever:5d8286d6-992a-404b-94af-99c173d40299",
     "company": "Palantir",
     "companyDomain": "palantir.com",
     "role": "Deployment Strategist, New Grad - Intel, US Government",
@@ -8617,7 +8439,7 @@
     "posted": "2026-06-15T16:42:57.674Z"
   },
   {
-    "slug": "lever-fbca0358-083a-4222-bdbb-3bd729b48382",
+    "dedupeKey": "lever:fbca0358-083a-4222-bdbb-3bd729b48382",
     "company": "Palantir",
     "companyDomain": "palantir.com",
     "role": "Forward Deployed Software Engineer, New Grad - Intel, US Government",
@@ -8643,7 +8465,7 @@
     "posted": "2026-06-15T16:08:02.343Z"
   },
   {
-    "slug": "lever-0a0d2db2-75a5-48e4-b0a0-81baa6588e36",
+    "dedupeKey": "lever:0a0d2db2-75a5-48e4-b0a0-81baa6588e36",
     "company": "Palantir",
     "companyDomain": "palantir.com",
     "role": "Forward Deployed Software Engineer - Norwegian Government",
@@ -8667,7 +8489,7 @@
     "posted": "2026-06-15T12:55:12.500Z"
   },
   {
-    "slug": "ashby-b223113e-44bc-46c2-9b55-4e2e6ca087b7",
+    "dedupeKey": "ashby:b223113e-44bc-46c2-9b55-4e2e6ca087b7",
     "company": "MARSO Robotics",
     "companyDomain": "marsorobotics.com",
     "role": "Ingénieur(e) Déploiement H/F",
@@ -8697,7 +8519,7 @@
     "posted": "2026-06-15T12:32:40.718Z"
   },
   {
-    "slug": "workday-jr102208",
+    "dedupeKey": "workday:JR102208",
     "company": "Stord",
     "companyDomain": "stord.com",
     "role": "Forward Deployed Engineer, AI Enablement",
@@ -8726,7 +8548,7 @@
     "posted": "2026-06-15T00:00:00.000Z"
   },
   {
-    "slug": "workday-jr102209",
+    "dedupeKey": "workday:JR102209",
     "company": "Stord",
     "companyDomain": "stord.com",
     "role": "Forward Deployed Engineer, AI Enablement",
@@ -8755,7 +8577,7 @@
     "posted": "2026-06-15T00:00:00.000Z"
   },
   {
-    "slug": "workday-r169057",
+    "dedupeKey": "workday:R169057",
     "company": "Frame.io",
     "companyDomain": "frame.io",
     "role": "Manager, Forward Deployed Creative Technologist",
@@ -8796,7 +8618,7 @@
     "posted": "2026-06-15T00:00:00.000Z"
   },
   {
-    "slug": "workday-jr333434",
+    "dedupeKey": "workday:JR333434",
     "company": "Salesforce",
     "companyDomain": "salesforce.com",
     "role": "Tableau Technical Architect (Secret clearance)",
@@ -8824,7 +8646,7 @@
     "posted": "2026-06-15T00:00:00.000Z"
   },
   {
-    "slug": "workday-jr2019687",
+    "dedupeKey": "workday:JR2019687",
     "company": "2100 NVIDIA USA",
     "companyDomain": "nvidia.com",
     "role": "Senior Solutions Architect, Infiniband and Networking Ethernet - NVIS",
@@ -8861,7 +8683,7 @@
     "posted": "2026-06-15T00:00:00.000Z"
   },
   {
-    "slug": "greenhouse-7772875",
+    "dedupeKey": "greenhouse:7772875",
     "company": "Pinterest",
     "companyDomain": "pinterest.com",
     "role": "Sr. Production Engineer, Solutions Engineering",
@@ -8895,7 +8717,7 @@
     "posted": "2026-06-12T17:14:45.000Z"
   },
   {
-    "slug": "greenhouse-5997281004",
+    "dedupeKey": "greenhouse:5997281004",
     "company": "Zeta Global",
     "companyDomain": "zetaglobal.com",
     "role": "Senior Associate, Data Cloud Applications ",
@@ -8920,7 +8742,7 @@
     "posted": "2026-06-12T14:35:46.000Z"
   },
   {
-    "slug": "greenhouse-4867405101",
+    "dedupeKey": "greenhouse:4867405101",
     "company": "Cognite",
     "companyDomain": "cognite.com",
     "role": "Enterprise / Principal Field Engineer",
@@ -8947,7 +8769,7 @@
     "posted": "2026-06-12T13:50:34.000Z"
   },
   {
-    "slug": "workday-jr346147",
+    "dedupeKey": "workday:JR346147",
     "company": "Salesforce",
     "companyDomain": "salesforce.com",
     "role": "Agentforce Technical Architect",
@@ -8979,5 +8801,196 @@
       "Technical Consulting"
     ],
     "posted": "2026-06-12T00:00:00.000Z"
+  },
+  {
+    "dedupeKey": "workday:JR335063",
+    "company": "Salesforce",
+    "companyDomain": "salesforce.com",
+    "role": "Senior Solution Consultant (Global)",
+    "applyUrl": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Japan---Tokyo/Senior-Solution-Consultant--Global-_JR335063",
+    "location": "Japan - Tokyo",
+    "remote": "unknown",
+    "level": "senior",
+    "skills": [
+      "salesforce",
+      "consulting",
+      "technical_translation",
+      "cross_cultural_communication",
+      "ai_tools",
+      "business_transformation",
+      "project_management",
+      "requirements_gathering",
+      "solution_design",
+      "english",
+      "japanese"
+    ],
+    "posted": "2026-06-12T00:00:00.000Z"
+  },
+  {
+    "dedupeKey": "workday:R0014201",
+    "company": "Pluralsight",
+    "companyDomain": "pluralsight.com",
+    "role": "AI Solutions Delivery Architect",
+    "applyUrl": "https://pluralsight.wd1.myworkdayjobs.com/Careers/job/Remote---USA/AI-Solutions-Delivery-Architect_R0014201",
+    "location": "Remote - USA",
+    "remote": "hybrid",
+    "level": "senior",
+    "skills": [
+      "LLMs",
+      "AI orchestration",
+      "Agentic AI",
+      "Generative AI",
+      "RPA",
+      "Intelligent Automation",
+      "Data Platforms",
+      "APIs",
+      "Integration Patterns",
+      "Cloud Platforms (AWS, Azure, GCP)",
+      "Process Improvement",
+      "Lean",
+      "Six Sigma",
+      "BPR",
+      "Change Management",
+      "Technical Delivery",
+      "Solution Architecture"
+    ],
+    "posted": "2026-06-12T00:00:00.000Z"
+  },
+  {
+    "dedupeKey": "workday:1207471",
+    "company": "HP Enterprise",
+    "companyDomain": "hpe.com",
+    "role": "Business Analyst – Automation & AI Solutions",
+    "applyUrl": "https://hpe.wd5.myworkdayjobs.com/WFMathpe/job/Bengaluru-Karntaka-India/Business-Analyst---Automation---AI-Solutions_1207471-1",
+    "location": "Bengaluru, Karnātaka, India",
+    "remote": "onsite",
+    "level": "senior",
+    "skills": [
+      "business analysis",
+      "automation",
+      "AI",
+      "RPA",
+      "LLM",
+      "Generative AI",
+      "prompt engineering",
+      "Microsoft Copilot Studio",
+      "UiPath",
+      "WorkFusion",
+      "Power BI",
+      "JIRA",
+      "Agile",
+      "Scrum",
+      "Lean Process Thinking",
+      "Design Thinking",
+      "process intelligence",
+      "solution architecture",
+      "value realization",
+      "stakeholder management",
+      "requirements gathering",
+      "process mapping",
+      "use case development",
+      "ROI analysis",
+      "scaling solutions"
+    ],
+    "posted": "2026-06-12T00:00:00.000Z"
+  },
+  {
+    "dedupeKey": "workday:JR2016366",
+    "company": "2100 NVIDIA USA",
+    "companyDomain": "nvidia.com",
+    "role": "Senior Solutions Architect, IPP",
+    "applyUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Solutions-Architect--IPP_JR2016366",
+    "location": "US, CA, Santa Clara",
+    "remote": "onsite",
+    "level": "senior",
+    "skills": [
+      "java",
+      "python",
+      "shell scripting",
+      "distributed systems",
+      "rest apis",
+      "sql",
+      "nosql",
+      "docker",
+      "kubernetes",
+      "openstack",
+      "ci/cd",
+      "cloud infrastructure",
+      "performance optimization",
+      "cost optimization",
+      "machine learning infrastructure",
+      "ai development systems"
+    ],
+    "posted": "2026-06-12T00:00:00.000Z"
+  },
+  {
+    "dedupeKey": "workday:JR2019584",
+    "company": "2100 NVIDIA USA",
+    "companyDomain": "nvidia.com",
+    "role": "Senior Solutions Architect, Infiniband and Networking Ethernet - NVIS",
+    "applyUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/India-Pune/Senior-Solutions-Architect--Infiniband-and-Networking-Ethernet---NVIS_JR2019584",
+    "location": "India, Pune",
+    "remote": "onsite",
+    "level": "senior",
+    "skills": [
+      "networking",
+      "ethernet",
+      "infini band",
+      "rdma",
+      "ansible",
+      "python",
+      "linux",
+      "hpc",
+      "automation",
+      "ci/cd",
+      "network automation",
+      "network provisioning",
+      "performance benchmarking",
+      "troubleshooting",
+      "system design",
+      "cumulus linux",
+      "sonic",
+      "ios",
+      "junos os",
+      "eos"
+    ],
+    "posted": "2026-06-12T00:00:00.000Z"
+  },
+  {
+    "dedupeKey": "greenhouse:5162754007",
+    "company": "Chaos",
+    "companyDomain": "chaosinc.com",
+    "role": "Field Software Engineer",
+    "applyUrl": "https://job-boards.greenhouse.io/chaosindustries/jobs/5162754007",
+    "location": "El Segundo, California, United States",
+    "remote": "onsite",
+    "level": "mid",
+    "skills": [
+      "python",
+      "typescript",
+      "javascript",
+      "machine learning",
+      "ai",
+      "rf systems",
+      "uas",
+      "air and missile defense",
+      "data integration",
+      "git",
+      "ssh",
+      "linux",
+      "cloud infrastructure",
+      "data structures",
+      "storage systems",
+      "command line",
+      "stakeholder management",
+      "rapid prototyping",
+      "customer requirements",
+      "product development",
+      "field deployment",
+      "troubleshooting",
+      "agent development",
+      "llm application"
+    ],
+    "posted": "2026-06-11T23:04:56.000Z"
   }
 ]
