@@ -1,5 +1,60 @@
 [
   {
+    "dedupeKey": "job:913ddb79-3ca1-4979-9560-25bc6433340a",
+    "companyId": "company_d318762d9a7b1ecbb23619b165e3fabe",
+    "company": "Anthropic",
+    "companyDomain": "anthropic.com",
+    "role": "Staff Forward Deployed Engineer",
+    "applyUrl": "https://go.landed.jobs/wf4mfrt",
+    "location": "New York City, NY +2",
+    "locations": [
+      "New York City, NY",
+      "San Francisco, CA",
+      "Seattle, WA"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "software_engineering",
+    "level": "staff",
+    "skills": [
+      "system design",
+      "problem decomposition",
+      "building and operating production systems",
+      "LLMs",
+      "agents",
+      "architecture-review"
+    ],
+    "posted": "2026-10-14T16:34:30.000Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "TrueUp Hot 200",
+      "$965B valuation"
+    ]
+  },
+  {
+    "dedupeKey": "job:4403e254-4cc2-4e54-bf5d-48ecd8251133",
+    "companyId": "company_733f99689ce000d9eeef93cdadfc6b1e",
+    "company": "Palantir Technologies",
+    "companyDomain": "palantir.com",
+    "role": "Forward Deployed Software Engineer - US Government",
+    "applyUrl": "https://go.landed.jobs/xnutqd0",
+    "location": "Laurel, MD",
+    "locations": [
+      "Laurel, MD"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "software_engineering",
+    "level": "",
+    "skills": [],
+    "posted": "2026-10-13T16:40:52.753Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "TrueUp Power 50",
+      "$295B valuation"
+    ]
+  },
+  {
     "dedupeKey": "job:66ea2b0b-a957-4892-98f8-f999afb5e85d",
     "companyId": "company_733f99689ce000d9eeef93cdadfc6b1e",
     "company": "Palantir Technologies",
@@ -1259,162 +1314,69 @@
     ]
   },
   {
-    "dedupeKey": "job:bc865edf-1002-4701-9ce5-8aab6fb2ecd1",
-    "companyId": "company_505aadec12321d72d448e7366c49ab96",
-    "company": "Databricks",
-    "companyDomain": "databricks.com",
-    "role": "Sr. Forward Deployed Engineer (FDE) - Digital Native Business",
-    "applyUrl": "https://go.landed.jobs/zeni2ll",
-    "location": "🌐 Remote (US)",
+    "dedupeKey": "job:4cbad5cc-18e2-4580-872e-f0f9d31ca15f",
+    "companyId": "company_bdb7ad915ac3f5005cfbb0757d0d5d5d",
+    "company": "Nango",
+    "companyDomain": "nango.dev",
+    "role": "Forward Deployed Engineer (Founding)",
+    "applyUrl": "https://go.landed.jobs/bogsihf",
+    "location": "🌐 Remote (US, UK, Switzerland +1)",
     "locations": [
       "US",
-      "California, CA"
+      "UK",
+      "Switzerland",
+      "Canada"
     ],
     "remote": "remote",
     "region": "remote",
     "family": "software_engineering",
     "level": "senior",
     "skills": [
-      "data engineering",
-      "data platforms & analytics",
-      "software engineering",
-      "distributed computing with Apache Spark",
-      "Spark runtime internals",
-      "technical project delivery",
-      "Databricks"
+      "full-stack engineering",
+      "debugging APIs, integrations, and production systems"
     ],
-    "posted": "2026-09-14T20:26:05.000Z",
-    "companyTier": "A",
+    "posted": "2026-10-13T23:54:11.365Z",
+    "companyTier": "B",
     "companyBadges": [
-      "TrueUp Hot 200",
-      "$190B valuation"
+      "YC W23",
+      "Seed"
     ]
   },
   {
-    "dedupeKey": "job:f0e5ffb5-f9ea-487a-b721-03abe5794411",
-    "companyId": "company_505aadec12321d72d448e7366c49ab96",
-    "company": "Databricks",
-    "companyDomain": "databricks.com",
-    "role": "Sr. Forward Deployed Engineer (FDE) - Digital Native Business",
-    "applyUrl": "https://go.landed.jobs/tbwqxy2",
-    "location": "🌐 Remote (US)",
+    "dedupeKey": "job:23941d4f-b24b-48fb-9f21-880a484902f8",
+    "companyId": "company_0c2862758daab9d9a72e96b643283046",
+    "company": "Ditto",
+    "companyDomain": "dittowords.com",
+    "role": "Senior Forward Deployed Engineer - Platform",
+    "applyUrl": "https://go.landed.jobs/oke2nw9",
+    "location": "San Francisco, CA +3",
     "locations": [
-      "Seattle, WA",
-      "California, CA"
+      "San Francisco, CA",
+      "Tampa, FL",
+      "Fort Bragg, NC",
+      "Washington, D.C., DC"
     ],
-    "remote": "remote",
-    "region": "remote",
-    "family": "software_engineering",
-    "level": "senior",
-    "skills": [
-      "data engineering",
-      "AI",
-      "application development",
-      "distributed computing with Apache Spark",
-      "Spark runtime internals",
-      "technical project delivery",
-      "white-boarding"
-    ],
-    "posted": "2026-09-14T20:25:27.000Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "TrueUp Hot 200",
-      "$190B valuation"
-    ]
-  },
-  {
-    "dedupeKey": "job:62e2f1c2-6144-4843-b77e-2f6615e87868",
-    "companyId": "company_505aadec12321d72d448e7366c49ab96",
-    "company": "Databricks",
-    "companyDomain": "databricks.com",
-    "role": "Sr. Forward Deployed Engineer (FDE) - Digital Native Business",
-    "applyUrl": "https://go.landed.jobs/z6j2233",
-    "location": "🌐 Remote (US)",
-    "locations": [
-      "New York City, NY",
-      "California, CA"
-    ],
-    "remote": "remote",
-    "region": "remote",
-    "family": "software_engineering",
-    "level": "senior",
-    "skills": [
-      "data engineering",
-      "AI",
-      "application development",
-      "distributed computing with Apache Spark",
-      "Spark runtime internals",
-      "technical project delivery",
-      "managing scope",
-      "timelines",
-      "measurable outcomes",
-      "white-boarding",
-      "enterprise clients",
-      "Databricks-based solutions"
-    ],
-    "posted": "2026-09-14T20:25:00.000Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "TrueUp Hot 200",
-      "$190B valuation"
-    ]
-  },
-  {
-    "dedupeKey": "job:34a3d9d5-b937-4fcf-b91a-87f03e58e648",
-    "companyId": "company_505aadec12321d72d448e7366c49ab96",
-    "company": "Databricks",
-    "companyDomain": "databricks.com",
-    "role": "Sr. Forward Deployed Engineer (FDE) - Digital Native Business",
-    "applyUrl": "https://go.landed.jobs/58mpms9",
-    "location": "🌐 Remote (US)",
-    "locations": [
-      "California, CA"
-    ],
-    "remote": "remote",
-    "region": "remote",
-    "family": "software_engineering",
-    "level": "senior",
-    "skills": [
-      "data engineering",
-      "data platforms & analytics",
-      "software engineering",
-      "distributed computing with Apache Spark™",
-      "Spark runtime internals",
-      "technical project delivery",
-      "Documentation and white-boarding"
-    ],
-    "posted": "2026-09-14T20:24:31.000Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "TrueUp Hot 200",
-      "$190B valuation"
-    ]
-  },
-  {
-    "dedupeKey": "job:e47ebd06-527b-46f5-ade6-714fbed3ca4a",
-    "companyId": "company_3f69683ca922f7f91ac095c65d7113b0",
-    "company": "Bilt",
-    "companyDomain": "bilt.com",
-    "role": "Senior Forward Deployed Engineer",
-    "applyUrl": "https://go.landed.jobs/71lvh0z",
-    "location": "New York City, NY",
-    "locations": [
-      "New York City, NY"
-    ],
-    "remote": "",
+    "remote": "hybrid",
     "region": "us",
     "family": "software_engineering",
     "level": "senior",
     "skills": [
-      "Java",
-      "Spring Boot",
-      "REST"
+      "platform engineering",
+      "DevOps",
+      "site reliability engineering (SRE)",
+      "cloud infrastructure engineering",
+      "container orchestration platforms",
+      "cloud-native architectures",
+      "CI/CD pipeline design",
+      "infrastructure-as-code tooling",
+      "AWS GovCloud",
+      "FedRAMP-authorized cloud platforms"
     ],
-    "posted": "2026-09-14T19:04:08.817Z",
-    "companyTier": "A",
+    "posted": "2026-10-13T21:38:02.196Z",
+    "companyTier": "B",
     "companyBadges": [
-      "TrueUp Hot 200",
-      "$10.8B valuation"
+      "YC W20",
+      "Series A"
     ]
   },
   {
@@ -1705,43 +1667,6 @@
     "companyBadges": [
       "$16.4B valuation",
       "Public"
-    ]
-  },
-  {
-    "dedupeKey": "job:23941d4f-b24b-48fb-9f21-880a484902f8",
-    "companyId": "company_0c2862758daab9d9a72e96b643283046",
-    "company": "Ditto",
-    "companyDomain": "dittowords.com",
-    "role": "Senior Forward Deployed Engineer - Platform",
-    "applyUrl": "https://go.landed.jobs/oke2nw9",
-    "location": "San Francisco, CA +3",
-    "locations": [
-      "San Francisco, CA",
-      "Tampa, FL",
-      "Fort Bragg, NC",
-      "Washington, D.C., DC"
-    ],
-    "remote": "hybrid",
-    "region": "us",
-    "family": "software_engineering",
-    "level": "senior",
-    "skills": [
-      "platform engineering",
-      "DevOps",
-      "site reliability engineering (SRE)",
-      "cloud infrastructure engineering",
-      "container orchestration platforms",
-      "cloud-native architectures",
-      "CI/CD pipeline design",
-      "infrastructure-as-code tooling",
-      "AWS GovCloud",
-      "FedRAMP-authorized cloud platforms"
-    ],
-    "posted": "2026-10-09T15:26:19.724Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "YC W20",
-      "Series A"
     ]
   },
   {
@@ -2596,7 +2521,7 @@
     "companyId": "company_e060059d8a0a2eca9bbafb5c70566e1c",
     "company": "Doppel",
     "companyDomain": "doppel.com",
-    "role": "Forward Deployed Engineering Lead (SF)",
+    "role": "Deployment Lead, FDE (SF)",
     "applyUrl": "https://go.landed.jobs/yicznfv",
     "location": "San Francisco, CA",
     "locations": [
@@ -3474,12 +3399,78 @@
     ]
   },
   {
-    "dedupeKey": "job:a36f6fee-2d99-4ecc-a83e-f368d6e002c8",
-    "companyId": "company_bc212649004036eb90e9973aee501452",
-    "company": "Matter Labs",
-    "companyDomain": "matter-labs.io",
+    "dedupeKey": "job:143e2c74-4873-4ff4-934e-74b98ff64c33",
+    "companyId": "company_2ecbd801ae1b7cdac91d7c8959b3b2a8",
+    "company": "Forgepoint",
+    "companyDomain": "forgepoint.ai",
     "role": "Forward Deployed Engineer",
-    "applyUrl": "https://go.landed.jobs/kqs6con",
+    "applyUrl": "https://go.landed.jobs/2wc6fp1",
+    "location": "New York City, NY",
+    "locations": [
+      "New York City, NY"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "software_engineering",
+    "level": "mid",
+    "skills": [
+      "map workflows",
+      "prioritize requirements",
+      "write SOPs and prompts",
+      "build evals",
+      "configure tools and guardrails",
+      "writing code",
+      "prompting LLMs",
+      "building evals",
+      "learning new agent-engineering techniques",
+      "Experience building and operating agentic systems in production",
+      "Experience integrating and deploying third-party APIs or legacy systems"
+    ],
+    "posted": "2026-10-15T00:06:07.780Z",
+    "companyTier": "C",
+    "companyBadges": []
+  },
+  {
+    "dedupeKey": "job:92f3cfff-7e5f-403a-b2f0-65f06f40bd54",
+    "companyId": "company_97b21e2be4d7948ee634e4f11421508e",
+    "company": "Luminary Cloud",
+    "companyDomain": "luminary.ai",
+    "role": "Senior / Principal Forward Deployed Engineer, Applications (CFD)",
+    "applyUrl": "https://go.landed.jobs/k1c8xpv",
+    "location": "San Mateo, CA",
+    "locations": [
+      "San Mateo, CA"
+    ],
+    "remote": "hybrid",
+    "region": "us",
+    "family": "software_engineering",
+    "level": "senior",
+    "skills": [
+      "CFD",
+      "Ansys Fluent",
+      "Simcenter STAR-CCM+",
+      "PowerFLOW",
+      "OpenFOAM",
+      "Python",
+      "HPC",
+      "cloud environments",
+      "engineering automation",
+      "APIs",
+      "SDK workflows"
+    ],
+    "posted": "2026-10-14T15:41:43.518Z",
+    "companyTier": "C",
+    "companyBadges": [
+      "Series B"
+    ]
+  },
+  {
+    "dedupeKey": "job:663ec71d-c335-4c19-8248-de75e09c8261",
+    "companyId": "company_388a61a26169954ad134bcd4a68dbbb3",
+    "company": "Coursedog",
+    "companyDomain": "coursedog.com",
+    "role": "Forward Deployed Integrations Engineer",
+    "applyUrl": "https://go.landed.jobs/cw4xxvi",
     "location": "🌐 Remote (US)",
     "locations": [
       "US"
@@ -3487,60 +3478,19 @@
     "remote": "remote",
     "region": "remote",
     "family": "software_engineering",
-    "level": "",
+    "level": "mid",
     "skills": [
-      "TypeScript",
-      "Rust",
-      "Java",
-      "C#",
-      "Go",
-      "Python",
-      "Ethereum execution clients",
-      "node internals",
-      "reth",
-      "Solidity",
-      "rollup and bridging mechanics"
-    ],
-    "posted": "2026-09-14T20:52:54.945Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "Series C"
-    ]
-  },
-  {
-    "dedupeKey": "job:77897e6a-229b-4505-b03a-38690474e711",
-    "companyId": "company_9f29ebebf84d42208c59e34721042bf9",
-    "company": "C3 AI",
-    "companyDomain": "c3.ai",
-    "role": "Forward Deployed Engineer, New Grad 2027",
-    "applyUrl": "https://go.landed.jobs/i3pfpuv",
-    "location": "Redwood City, CA",
-    "locations": [
-      "Redwood City, CA"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "software_engineering",
-    "level": "entry",
-    "skills": [
+      "REST APIs",
+      "JSON",
+      "CSV",
+      "SQL",
       "Python",
       "JavaScript",
-      "Java",
-      "cloud computing",
-      "relational or NoSQL databases",
-      "profiling & optimization",
-      "React",
-      "Redux",
-      "Git",
-      "GitHub Copilot",
-      "Claude Code"
+      "SIS platforms such as Banner, Colleague/Ethos, Workday, or PeopleSoft"
     ],
-    "posted": "2026-09-14T16:19:00.000Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "$1.4B valuation",
-      "Public"
-    ]
+    "posted": "2026-10-14T00:00:00.000Z",
+    "companyTier": "C",
+    "companyBadges": []
   },
   {
     "dedupeKey": "job:77f6b2a3-4240-44fb-b692-631556275c62",
@@ -3570,6 +3520,34 @@
     "companyBadges": [
       "Series B"
     ]
+  },
+  {
+    "dedupeKey": "job:f56cd633-45f6-425b-9508-7ca91d79ba90",
+    "companyId": "company_c8b1b2dc9a510a11676cc2a93d2388d5",
+    "company": "M7 Health",
+    "companyDomain": "m7health.com",
+    "role": "Forward Deployed Engineer",
+    "applyUrl": "https://go.landed.jobs/52wpqfr",
+    "location": "🌐 Remote (US)",
+    "locations": [
+      "New York City, NY"
+    ],
+    "remote": "remote",
+    "region": "remote",
+    "family": "software_engineering",
+    "level": "",
+    "skills": [
+      "Python",
+      "TypeScript",
+      "Node.js",
+      "NestJS",
+      "PostgreSQL",
+      "AWS",
+      "UKG"
+    ],
+    "posted": "2026-10-13T21:13:00.161Z",
+    "companyTier": "C",
+    "companyBadges": []
   },
   {
     "dedupeKey": "job:36adf3db-cd17-49c0-9411-3998b6c1be29",
@@ -3829,38 +3807,6 @@
     "companyBadges": [
       "Series B"
     ]
-  },
-  {
-    "dedupeKey": "job:3da12a1e-7b4c-430b-a589-82054ff564e2",
-    "companyId": "company_608d2ca9dc06956e50d111caf2f11773",
-    "company": "Interview Kickstart",
-    "companyDomain": "interviewkickstart.com",
-    "role": "FDE - US (Alumni Only)",
-    "applyUrl": "https://go.landed.jobs/21d1t0h",
-    "location": "🌐 Remote (US)",
-    "locations": [
-      "US"
-    ],
-    "remote": "remote",
-    "region": "remote",
-    "family": "software_engineering",
-    "level": "",
-    "skills": [
-      "LLMs",
-      "AI agents",
-      "LangChain",
-      "LangGraph",
-      "LlamaIndex",
-      "AutoGen",
-      "CrewAI",
-      "Retrieval Augmented Generation (RAG)",
-      "vector databases",
-      "hybrid search",
-      "reranking"
-    ],
-    "posted": "2026-10-12T12:23:15.772Z",
-    "companyTier": "U",
-    "companyBadges": []
   },
   {
     "dedupeKey": "job:88ddc363-e0a2-4b83-8547-f4cdfd2fcd6e",
@@ -6109,32 +6055,6 @@
     ]
   },
   {
-    "dedupeKey": "job:babf9de9-96f7-4a1a-8151-82bcfa2420c2",
-    "companyId": "company_a1adb09bbb291eae106577a4d260b1ba",
-    "company": "Turing AI Cultures GmbH",
-    "companyDomain": "turing.ai",
-    "role": "Forward Deployed AI Engineer (In Training)",
-    "applyUrl": "https://go.landed.jobs/rl20ija",
-    "location": "New York City, NY",
-    "locations": [
-      "New York City, NY"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "ai_machine_learning",
-    "level": "",
-    "skills": [
-      "LLMs",
-      "RAG",
-      "agentic systems"
-    ],
-    "posted": "2026-09-17T22:35:57.000Z",
-    "companyTier": "C",
-    "companyBadges": [
-      "Seed"
-    ]
-  },
-  {
     "dedupeKey": "job:a1c8eea4-aaf3-4987-9031-5ff667079523",
     "companyId": "company_8077a800c60f9f71d3441c3d54abd53d",
     "company": "Re:Build Manufacturing",
@@ -6158,6 +6078,39 @@
     "posted": "2026-09-17T18:56:43.000Z",
     "companyTier": "C",
     "companyBadges": []
+  },
+  {
+    "dedupeKey": "job:bda82eb3-d900-4f53-aafd-fab8bd517d7c",
+    "companyId": "company_deb88632f3d16757ca82911827eceb3c",
+    "company": "Quadric",
+    "companyDomain": "quadric.io",
+    "role": "Forward Deployed Engineer",
+    "applyUrl": "https://go.landed.jobs/2sojbxz",
+    "location": "🌐 Remote (US)",
+    "locations": [
+      "Burlingame, CA",
+      "US",
+      "China"
+    ],
+    "remote": "remote",
+    "region": "remote",
+    "family": "software_engineering",
+    "level": "",
+    "skills": [
+      "C++",
+      "Python",
+      "DSP",
+      "NPU",
+      "GPU",
+      "embedded SoC",
+      "Claude Code",
+      "MCP"
+    ],
+    "posted": "2026-09-17T18:53:06.761Z",
+    "companyTier": "C",
+    "companyBadges": [
+      "Series C"
+    ]
   },
   {
     "dedupeKey": "job:785d594a-3ec4-4b98-9d3a-831f591ca10c",
@@ -6537,6 +6490,172 @@
     ]
   },
   {
+    "dedupeKey": "job:a36f6fee-2d99-4ecc-a83e-f368d6e002c8",
+    "companyId": "company_bc212649004036eb90e9973aee501452",
+    "company": "Matter Labs",
+    "companyDomain": "matter-labs.io",
+    "role": "Forward Deployed Engineer",
+    "applyUrl": "https://go.landed.jobs/kqs6con",
+    "location": "🌐 Remote (US)",
+    "locations": [
+      "US"
+    ],
+    "remote": "remote",
+    "region": "remote",
+    "family": "software_engineering",
+    "level": "",
+    "skills": [
+      "TypeScript",
+      "Rust",
+      "Java",
+      "C#",
+      "Go",
+      "Python",
+      "Ethereum execution clients",
+      "node internals",
+      "reth",
+      "Solidity",
+      "rollup and bridging mechanics"
+    ],
+    "posted": "2026-09-14T20:52:54.945Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "Series C"
+    ]
+  },
+  {
+    "dedupeKey": "job:bc865edf-1002-4701-9ce5-8aab6fb2ecd1",
+    "companyId": "company_505aadec12321d72d448e7366c49ab96",
+    "company": "Databricks",
+    "companyDomain": "databricks.com",
+    "role": "Sr. Forward Deployed Engineer (FDE) - Digital Native Business",
+    "applyUrl": "https://go.landed.jobs/zeni2ll",
+    "location": "🌐 Remote (US)",
+    "locations": [
+      "US",
+      "California, CA"
+    ],
+    "remote": "remote",
+    "region": "remote",
+    "family": "software_engineering",
+    "level": "senior",
+    "skills": [
+      "data engineering",
+      "data platforms & analytics",
+      "software engineering",
+      "distributed computing with Apache Spark",
+      "Spark runtime internals",
+      "technical project delivery",
+      "Databricks"
+    ],
+    "posted": "2026-09-14T20:26:05.000Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "TrueUp Hot 200",
+      "$190B valuation"
+    ]
+  },
+  {
+    "dedupeKey": "job:f0e5ffb5-f9ea-487a-b721-03abe5794411",
+    "companyId": "company_505aadec12321d72d448e7366c49ab96",
+    "company": "Databricks",
+    "companyDomain": "databricks.com",
+    "role": "Sr. Forward Deployed Engineer (FDE) - Digital Native Business",
+    "applyUrl": "https://go.landed.jobs/tbwqxy2",
+    "location": "🌐 Remote (US)",
+    "locations": [
+      "Seattle, WA",
+      "California, CA"
+    ],
+    "remote": "remote",
+    "region": "remote",
+    "family": "software_engineering",
+    "level": "senior",
+    "skills": [
+      "data engineering",
+      "AI",
+      "application development",
+      "distributed computing with Apache Spark",
+      "Spark runtime internals",
+      "technical project delivery",
+      "white-boarding"
+    ],
+    "posted": "2026-09-14T20:25:27.000Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "TrueUp Hot 200",
+      "$190B valuation"
+    ]
+  },
+  {
+    "dedupeKey": "job:62e2f1c2-6144-4843-b77e-2f6615e87868",
+    "companyId": "company_505aadec12321d72d448e7366c49ab96",
+    "company": "Databricks",
+    "companyDomain": "databricks.com",
+    "role": "Sr. Forward Deployed Engineer (FDE) - Digital Native Business",
+    "applyUrl": "https://go.landed.jobs/z6j2233",
+    "location": "🌐 Remote (US)",
+    "locations": [
+      "New York City, NY",
+      "California, CA"
+    ],
+    "remote": "remote",
+    "region": "remote",
+    "family": "software_engineering",
+    "level": "senior",
+    "skills": [
+      "data engineering",
+      "AI",
+      "application development",
+      "distributed computing with Apache Spark",
+      "Spark runtime internals",
+      "technical project delivery",
+      "managing scope",
+      "timelines",
+      "measurable outcomes",
+      "white-boarding",
+      "enterprise clients",
+      "Databricks-based solutions"
+    ],
+    "posted": "2026-09-14T20:25:00.000Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "TrueUp Hot 200",
+      "$190B valuation"
+    ]
+  },
+  {
+    "dedupeKey": "job:34a3d9d5-b937-4fcf-b91a-87f03e58e648",
+    "companyId": "company_505aadec12321d72d448e7366c49ab96",
+    "company": "Databricks",
+    "companyDomain": "databricks.com",
+    "role": "Sr. Forward Deployed Engineer (FDE) - Digital Native Business",
+    "applyUrl": "https://go.landed.jobs/58mpms9",
+    "location": "🌐 Remote (US)",
+    "locations": [
+      "California, CA"
+    ],
+    "remote": "remote",
+    "region": "remote",
+    "family": "software_engineering",
+    "level": "senior",
+    "skills": [
+      "data engineering",
+      "data platforms & analytics",
+      "software engineering",
+      "distributed computing with Apache Spark™",
+      "Spark runtime internals",
+      "technical project delivery",
+      "Documentation and white-boarding"
+    ],
+    "posted": "2026-09-14T20:24:31.000Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "TrueUp Hot 200",
+      "$190B valuation"
+    ]
+  },
+  {
     "dedupeKey": "job:e6838403-b222-4d28-8a92-72b9b4b84021",
     "companyId": "company_52a353a165e3e99d025e4fce53dc5609",
     "company": "Cogent",
@@ -6561,6 +6680,68 @@
     "companyTier": "C",
     "companyBadges": [
       "Series A"
+    ]
+  },
+  {
+    "dedupeKey": "job:e47ebd06-527b-46f5-ade6-714fbed3ca4a",
+    "companyId": "company_3f69683ca922f7f91ac095c65d7113b0",
+    "company": "Bilt",
+    "companyDomain": "bilt.com",
+    "role": "Senior Forward Deployed Engineer",
+    "applyUrl": "https://go.landed.jobs/71lvh0z",
+    "location": "New York City, NY",
+    "locations": [
+      "New York City, NY"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "software_engineering",
+    "level": "senior",
+    "skills": [
+      "Java",
+      "Spring Boot",
+      "REST"
+    ],
+    "posted": "2026-09-14T19:04:08.817Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "TrueUp Hot 200",
+      "$10.8B valuation"
+    ]
+  },
+  {
+    "dedupeKey": "job:77897e6a-229b-4505-b03a-38690474e711",
+    "companyId": "company_9f29ebebf84d42208c59e34721042bf9",
+    "company": "C3 AI",
+    "companyDomain": "c3.ai",
+    "role": "Forward Deployed Engineer, New Grad 2027",
+    "applyUrl": "https://go.landed.jobs/i3pfpuv",
+    "location": "Redwood City, CA",
+    "locations": [
+      "Redwood City, CA"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "software_engineering",
+    "level": "entry",
+    "skills": [
+      "Python",
+      "JavaScript",
+      "Java",
+      "cloud computing",
+      "relational or NoSQL databases",
+      "profiling & optimization",
+      "React",
+      "Redux",
+      "Git",
+      "GitHub Copilot",
+      "Claude Code"
+    ],
+    "posted": "2026-09-14T16:19:00.000Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "$1.4B valuation",
+      "Public"
     ]
   },
   {
@@ -6972,42 +7153,6 @@
     "companyBadges": [
       "YC S22",
       "Seed"
-    ]
-  },
-  {
-    "dedupeKey": "job:641f7c98-f7f7-4728-afdf-2b0d1c7eaab7",
-    "companyId": "company_545842dbc71fb14ad07e570b4bec972c",
-    "company": "Kong",
-    "companyDomain": "konghq.com",
-    "role": "Staff Forward Deployed Engineer",
-    "applyUrl": "https://go.landed.jobs/zd2vn6r",
-    "location": "🌐 Remote (US)",
-    "locations": [
-      "Ohio, OH"
-    ],
-    "remote": "remote",
-    "region": "remote",
-    "family": "software_engineering",
-    "level": "staff",
-    "skills": [
-      "API gateways",
-      "API management",
-      "automation frameworks",
-      "deployment tooling",
-      "CI/CD pipelines",
-      "migration tooling",
-      "AWS",
-      "Azure",
-      "GCP",
-      "Python",
-      "Go",
-      "Terraform"
-    ],
-    "posted": "2026-09-10T21:53:02.108Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "TrueUp Open Source 50",
-      "$2B valuation"
     ]
   },
   {
@@ -7721,6 +7866,29 @@
     ]
   },
   {
+    "dedupeKey": "job:5616067d-a728-476a-a0f2-3681c85ddd88",
+    "companyId": "company_06183eddf4cf38a4e30993eb82e1f51e",
+    "company": "Datasite",
+    "companyDomain": "datasite.com",
+    "role": "Sr. Forward Deployed Engineer, Commerical Operations",
+    "applyUrl": "https://go.landed.jobs/6pjd90z",
+    "location": "US",
+    "locations": [
+      "US"
+    ],
+    "remote": "hybrid",
+    "region": "us",
+    "family": "ai_machine_learning",
+    "level": "",
+    "skills": [
+      "Python",
+      "LLM"
+    ],
+    "posted": "2026-09-08T00:00:00.000Z",
+    "companyTier": "U",
+    "companyBadges": []
+  },
+  {
     "dedupeKey": "job:b4809d1e-5feb-4ba4-8c8d-f702a89f85d3",
     "companyId": "company_18351e92ae8a2acab8712aba3eeb79ba",
     "company": "Rocketlane",
@@ -8267,36 +8435,6 @@
     ]
   },
   {
-    "dedupeKey": "job:caae747a-2d82-4253-870b-37bc29fc297e",
-    "companyId": "company_ad4025c634174b7fd5bb39b779dc8b19",
-    "company": "Zebra Technologies",
-    "companyDomain": "zebra.com",
-    "role": "Forward Deployed Software Engineer, Advanced",
-    "applyUrl": "https://go.landed.jobs/s5zupp5",
-    "location": "New York City, NY",
-    "locations": [
-      "New York City, NY"
-    ],
-    "remote": "hybrid",
-    "region": "us",
-    "family": "software_engineering",
-    "level": "senior",
-    "skills": [
-      "MLOps",
-      "deploying AI/ML models on-prem and in cloud environment (e.g., AWS",
-      "integrating AI solutions with enterprise tools and APIs",
-      "Edge Devices",
-      "Android platform",
-      "data pipelines"
-    ],
-    "posted": "2026-09-02T00:00:00.000Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "$14B valuation",
-      "Public"
-    ]
-  },
-  {
     "dedupeKey": "job:ec3ab876-eff3-4b08-adab-40d26773d055",
     "companyId": "company_da7d084c4b83ee37799f469a94e0bce8",
     "company": "Stability AI",
@@ -8790,169 +8928,6 @@
     "companyBadges": [
       "$1.3B valuation",
       "Series D"
-    ]
-  },
-  {
-    "dedupeKey": "job:79300467-e6fb-404d-8e38-dc842a362eba",
-    "companyId": "company_bb438e1309fd5686c78f3282ad4de532",
-    "company": "OpenAI",
-    "companyDomain": "openai.com",
-    "role": "Forward Deployed Engineer (FDE), Legal-SF",
-    "applyUrl": "https://go.landed.jobs/jy07lck",
-    "location": "New York City, NY",
-    "locations": [
-      "New York City, NY"
-    ],
-    "remote": "hybrid",
-    "region": "us",
-    "family": "software_engineering",
-    "level": "",
-    "skills": [
-      "AI systems",
-      "legal analysis",
-      "drafting",
-      "research",
-      "full-stack systems",
-      "software engineering",
-      "ML engineering",
-      "technical deployment",
-      "legal technology",
-      "legal services",
-      "compliance-heavy workflows",
-      "professional services"
-    ],
-    "posted": "2026-08-27T16:14:22.852Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "TrueUp Hot 200",
-      "$852B valuation"
-    ]
-  },
-  {
-    "dedupeKey": "job:9b067619-00e6-41d8-ab6f-df3755b26e6b",
-    "companyId": "company_9fa04354ed54b89e51186f0e2448d554",
-    "company": "Charta Health",
-    "companyDomain": "chartahealth.com",
-    "role": "Software Engineer (FDE / Platform) - Intern",
-    "applyUrl": "https://go.landed.jobs/k15cga1",
-    "location": "San Francisco, CA · New York City, NY",
-    "locations": [
-      "San Francisco, CA",
-      "New York City, NY"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "software_engineering",
-    "level": "intern",
-    "skills": [
-      "Python",
-      "TypeScript",
-      "debugging tools",
-      "log analysis",
-      "stack traces",
-      "Large Language Models (LLMs)",
-      "prompt engineering",
-      "neural networks",
-      "machine learning"
-    ],
-    "posted": "2026-08-27T15:48:02.670Z",
-    "companyTier": "C",
-    "companyBadges": [
-      "Series A"
-    ]
-  },
-  {
-    "dedupeKey": "job:13fcdd66-dabc-4817-87df-f861bb0f9944",
-    "companyId": "company_c8b69a3191bb7a0b87103abc7f622c67",
-    "company": "Aircall",
-    "companyDomain": "aircall.io",
-    "role": "Senior Forward Deployed Engineer – Key Accounts (AI Solutions)",
-    "applyUrl": "https://go.landed.jobs/rk0svez",
-    "location": "San Francisco, CA",
-    "locations": [
-      "San Francisco, CA"
-    ],
-    "remote": "hybrid",
-    "region": "us",
-    "family": "ai_machine_learning",
-    "level": "senior",
-    "skills": [
-      "APIs, webhooks, and data structures (JSON, REST, GraphQL)",
-      "low-code orchestration tools (Zapier, Make, n8n, Workato)",
-      "CRM automation (HubSpot, Salesforce)",
-      "telephony, voice, or contact centre systems (SIP/WebRTC, call routing, containment, AHT)"
-    ],
-    "posted": "2026-08-27T04:36:53.000Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "$1B valuation",
-      "Series D"
-    ]
-  },
-  {
-    "dedupeKey": "job:f79820fe-f33e-4495-b9e7-9e4f83836a28",
-    "companyId": "company_55443ce9a67aca6db075d5a7e7bbd344",
-    "company": "NewRocket",
-    "companyDomain": "newrocket.com",
-    "role": "Senior/Lead Forward Deployed AI Engineer-Anthropic-US West",
-    "applyUrl": "https://go.landed.jobs/w6uzf5y",
-    "location": "🌐 Remote (US)",
-    "locations": [
-      "US"
-    ],
-    "remote": "remote",
-    "region": "remote",
-    "family": "ai_machine_learning",
-    "level": "senior",
-    "skills": [
-      "LLM",
-      "RAG",
-      "agentic workflows",
-      "model evaluation",
-      "microservices",
-      "AWS",
-      "Google Cloud",
-      "Azure"
-    ],
-    "posted": "2026-08-27T01:28:09.000Z",
-    "companyTier": "U",
-    "companyBadges": []
-  },
-  {
-    "dedupeKey": "job:300ca774-ec95-4dd7-8fe9-9022115ce4b5",
-    "companyId": "company_4f814c75bf30a0cc63f884411481449c",
-    "company": "Notion",
-    "companyDomain": "notion.com",
-    "role": "Forward Deployed Architect",
-    "applyUrl": "https://go.landed.jobs/pt8mfhg",
-    "location": "New York City, NY · San Francisco, CA",
-    "locations": [
-      "New York City, NY",
-      "San Francisco, CA"
-    ],
-    "remote": "hybrid",
-    "region": "us",
-    "family": "developer_relations_solutions",
-    "level": "senior",
-    "skills": [
-      "AI tools",
-      "design",
-      "prototype",
-      "automate",
-      "Agents",
-      "automations",
-      "AI-powered workflows",
-      "Notion",
-      "APIs",
-      "MCPs",
-      "Workers",
-      "coding agents"
-    ],
-    "posted": "2026-08-26T21:46:43.362Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "$11B valuation",
-      "Series C"
     ]
   }
 ]
