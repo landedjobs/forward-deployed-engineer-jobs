@@ -1,5 +1,37 @@
 [
   {
+    "dedupeKey": "job:2bf06373-2796-4288-948c-9e406f3b7556",
+    "companyId": "company_b43f97075dbf294f85a415c2b6472894",
+    "company": "Exa",
+    "companyDomain": "exa.ai",
+    "role": "FDE Lead, NYC",
+    "applyUrl": "https://go.landed.jobs/93suedt",
+    "location": "New York City, NY",
+    "locations": [
+      "New York City, NY"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "developer_relations_solutions",
+    "level": "director",
+    "skills": [
+      "programming",
+      "search",
+      "retrieval",
+      "LLMs",
+      "data pipelines",
+      "RAG",
+      "agents",
+      "search quality"
+    ],
+    "posted": "2026-10-29T23:29:18.987Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "TrueUp Cloud Infra 50",
+      "$2.2B valuation"
+    ]
+  },
+  {
     "dedupeKey": "job:881c314c-3b19-4e7f-9633-603574ef62ab",
     "companyId": "company_733f99689ce000d9eeef93cdadfc6b1e",
     "company": "Palantir Technologies",
@@ -1406,43 +1438,6 @@
     "companyBadges": [
       "TrueUp Security 50",
       "$22.9B valuation"
-    ]
-  },
-  {
-    "dedupeKey": "job:98f67723-b4da-455a-9fa7-68b3d5d308e7",
-    "companyId": "company_7cce6156243b1cbd4d14bc2f2a0c8d49",
-    "company": "Palo Alto Networks",
-    "companyDomain": "paloaltonetworks.com",
-    "role": "Distinguished Forward Deployed Engineer, AI Security",
-    "applyUrl": "https://go.landed.jobs/foum64b",
-    "location": "Charlotte, NC · California, CA",
-    "locations": [
-      "Charlotte, NC",
-      "California, CA"
-    ],
-    "remote": "hybrid",
-    "region": "us",
-    "family": "software_engineering",
-    "level": "staff",
-    "skills": [
-      "Python, Go, or C++",
-      "API gateways (Envoy, Kong)",
-      "gRPC, REST",
-      "LLM orchestration",
-      "vector databases",
-      "runtime guardrails",
-      "containerization",
-      "custom Kubernetes operators",
-      "service meshes",
-      "infrastructure-as-code",
-      "enterprise security protocols",
-      "data loss prevention"
-    ],
-    "posted": "2026-10-05T00:00:00.000Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "TrueUp Power 50",
-      "$270B valuation"
     ]
   },
   {
@@ -3606,6 +3601,30 @@
       "LLMs"
     ],
     "posted": "2026-10-29T20:29:24.000Z",
+    "companyTier": "U",
+    "companyBadges": []
+  },
+  {
+    "dedupeKey": "job:f29a1804-3a0e-4752-a88d-008e1bc17ea8",
+    "companyId": "company_050ec85b05037ff297252aab1a39a1d1",
+    "company": "Foley",
+    "companyDomain": "foley.io",
+    "role": "Forward Deployed Engineer",
+    "applyUrl": "https://go.landed.jobs/en2bzjn",
+    "location": "🌐 Remote (US)",
+    "locations": [
+      "US"
+    ],
+    "remote": "remote",
+    "region": "remote",
+    "family": "software_engineering",
+    "level": "",
+    "skills": [
+      "CRM and marketing automation platforms (Salesforce, HubSpot, or similar)",
+      "enrichment and sequencing tools",
+      "product marketing experience in positioning, launches, competitive intel, or win/loss"
+    ],
+    "posted": "2026-10-29T19:41:43.295Z",
     "companyTier": "U",
     "companyBadges": []
   },
@@ -8874,33 +8893,6 @@
       "JavaScript"
     ],
     "posted": "2026-09-14T21:58:40.000Z",
-    "companyTier": "C",
-    "companyBadges": [
-      "Series B"
-    ]
-  },
-  {
-    "dedupeKey": "job:6c57c6f3-c5cd-4da7-9fbb-c00be85df2ac",
-    "companyId": "company_79db3ddec1987d6da9f246a0720f50e6",
-    "company": "Venn",
-    "companyDomain": "venn.city",
-    "role": "Forward Deployed Engineer",
-    "applyUrl": "https://go.landed.jobs/d9dt2pn",
-    "location": "🌐 Remote (US)",
-    "locations": [
-      "Chicago, IL",
-      "US"
-    ],
-    "remote": "remote",
-    "region": "remote",
-    "family": "software_engineering",
-    "level": "",
-    "skills": [
-      "LLMs or generative models",
-      "Python",
-      "JavaScript"
-    ],
-    "posted": "2026-09-14T21:56:23.000Z",
     "companyTier": "C",
     "companyBadges": [
       "Series B"
