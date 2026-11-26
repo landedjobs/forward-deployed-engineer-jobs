@@ -1533,32 +1533,6 @@
     ]
   },
   {
-    "dedupeKey": "job:19e8dd03-7a30-4223-9c64-50710798dbad",
-    "companyId": "company_d5292bab783120c88836aa01d7bd8771",
-    "company": "Tennr",
-    "companyDomain": "tennr.com",
-    "role": "Forward Deployed Engineering Team Manager",
-    "applyUrl": "https://go.landed.jobs/icioh2v",
-    "location": "New York City, NY",
-    "locations": [
-      "New York City, NY"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "software_engineering",
-    "level": "senior",
-    "skills": [
-      "architecture and workflow design",
-      "healthcare or healthcare technology experience"
-    ],
-    "posted": "2026-10-27T16:10:53.557Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "YC W23",
-      "$610M valuation"
-    ]
-  },
-  {
     "dedupeKey": "job:e31ae8d9-b099-42d1-b82f-96b063295aee",
     "companyId": "company_26b9cccfe247fdbad310d5b6fa03f8f0",
     "company": "Docker, Inc",
@@ -5795,6 +5769,32 @@
     "companyTier": "C",
     "companyBadges": [
       "Series A"
+    ]
+  },
+  {
+    "dedupeKey": "job:19e8dd03-7a30-4223-9c64-50710798dbad",
+    "companyId": "company_d5292bab783120c88836aa01d7bd8771",
+    "company": "Tennr",
+    "companyDomain": "tennr.com",
+    "role": "Forward Deployed Engineering Team Manager",
+    "applyUrl": "https://go.landed.jobs/icioh2v",
+    "location": "New York City, NY",
+    "locations": [
+      "New York City, NY"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "software_engineering",
+    "level": "senior",
+    "skills": [
+      "architecture and workflow design",
+      "healthcare or healthcare technology experience"
+    ],
+    "posted": "2026-10-27T16:10:53.557Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "YC W23",
+      "$610M valuation"
     ]
   },
   {
